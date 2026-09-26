@@ -24,34 +24,6 @@ tiktok-shop-video-planner/     ← skill 本体（整个文件夹就是一个 sk
 └── voice-samples.md           ← 108 条口播样本库（按标题检索，不整份读）
 ```
 
-## 安装
-
-### 方式一：脚本（macOS / Linux / Windows 的 Git Bash 或 WSL）
-
-解压后在解压目录里运行：
-
-```bash
-bash install.sh              # 装到个人目录：~/.agents/skills 和 ~/.claude/skills
-bash install.sh ~/my-project # 只装到某个项目：<项目>/.agents/skills 和 <项目>/.claude/skills
-```
-
-已有同名旧版本会自动改名备份。装完重启 Codex / Claude Code。
-
-### 方式二：手动复制
-
-把整个 `tiktok-shop-video-planner` 文件夹复制到：
-
-| 工具 | 个人（所有项目可用） | 单个项目 |
-|---|---|---|
-| Codex | `~/.agents/skills/` | `<项目>/.agents/skills/` |
-| Claude Code | `~/.claude/skills/` | `<项目>/.claude/skills/` |
-
-复制后路径应是 `.../skills/tiktok-shop-video-planner/SKILL.md`。文件夹名必须保持 `tiktok-shop-video-planner`（与 SKILL.md 里的 `name` 一致）。
-
-### Claude.ai 网页 / 桌面版
-
-设置 → Capabilities → Skills 上传 `tiktok-shop-video-planner-skill-only.zip`（只含 skill 文件夹的那个包）。上传前若已有同名的旧 `tiktok-shop-video-planner`，先删除旧版，避免两版冲突。
-
 ## 使用
 
 直接说需求即可自动触发，例如“帮我给这个商品做一条美区带货视频”并附商品图。也可以显式调用：Claude Code 输入 `/tiktok-shop-video-planner`，Codex 输入 `$tiktok-shop-video-planner`。
@@ -61,5 +33,4 @@ bash install.sh ~/my-project # 只装到某个项目：<项目>/.agents/skills �
 ## 维护
 
 - 只改 `.agents/skills/tiktok-shop-video-planner/` 这一份；仓库里的 `.claude/skills/` 是指向它的软链接。
-- 重新打包：`bash scripts/package.sh` → `dist/tiktok-shop-video-planner.zip`（含安装脚本和说明）与 `dist/tiktok-shop-video-planner-skill-only.zip`（只含 skill 文件夹，供网页上传）。
-- 校验格式：`pip install "git+https://github.com/agentskills/agentskills#subdirectory=skills-ref"` 后运行 `skills-ref validate .agents/skills/tiktok-shop-video-planner`。
+- 打包与安装说明等最终版本确认后再补。
