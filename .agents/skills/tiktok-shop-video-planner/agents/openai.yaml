@@ -1,0 +1,7 @@
+interface:
+  display_name: "TikTok Shop 带货视频策划"
+  short_description: "美区 TikTok Shop AI UGC 视频：商品分析、钩子、文案、分镜、生图与即梦执行稿、复盘"
+  default_prompt: "帮我给这个商品策划一条美区 TikTok Shop 带货视频。"
+
+policy:
+  allow_implicit_invocation: true
