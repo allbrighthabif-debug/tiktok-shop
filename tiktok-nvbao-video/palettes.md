@@ -43,6 +43,7 @@
 - 质感:羊绒、羊毛、丝、亚麻、真皮
 - 道具:珍珠、细金饰、网球和马球意象、条纹衬衫、草坪
 - 全部低饱和,蓝和驼是弱对比,贵来自克制
+- 实测:只拍手和包的车里,座椅和车门用森林绿皮、少量哑光木纹、椅背搭一件驼色开衫,焦糖豹纹包在深绿上跳出来,复古、偏高级
 
 **黑帮大嫂风** Mob Wife|冬,晚秋次之
 - 色卡:Jet Black #141414、Oxblood #4A1E1E、Leopard Tan #9A6B32、Antique Gold #B08D4A、Cream #F2EAD9
@@ -207,7 +208,24 @@
 - 深冬紫夜,极光和雪丘:Plum Noir #351E28、Plum #5E2A4A、Fresh Purple #7A4FA3、Alexandrite #1F6B6B、Cool Blue #D7EFFF
 - 晚霞(秋冬之间,节日前后):Eggplant #502834、Wenge #544948、Cinnabar #D66543、Dark Orange #F7963E、Hunyadi Yellow #F4BB60
 
-## 三、2026 流行色(参考,HEX 是近似值)
+## 三、场景和风格怎么搭(第 1 步推荐场景选项时用;偏高级 / 偏日常标在后面)
+- 老钱风:复古车(森林绿、深棕皮座椅加木纹)、乡村俱乐部、图书馆、庄园式门廊、网球场边|偏高级
+- 美拉德、咖啡棕家族:秋日咖啡馆窗边、焦糖皮座椅的车、木桌和暖灯的客厅、落叶街头|偏日常到中间
+- 燕麦格雷、香草女孩、clean girl:现代浅色内饰的车、明亮的公寓、厨房岛台、普拉提馆门口|偏日常
+- 暗黑学院:书桌、图书馆、木壁板书房、深色皮座椅的复古车|偏高级
+- coquette、芭蕾风:卧室梳妆台、床边、粉调的衣帽间|中间
+- 黑帮大嫂:深色皮座椅的车、酒店大堂、夜晚出门前的玄关(光照样写亮)|偏高级
+- 办公室女妖:写字楼电梯厅、会议室门口、黑色内饰的车|偏高级
+- 美式复古:老式 diner 卡座、杂货铺、旧皮卡、褪色牛仔和格子布|偏日常
+- 番茄女孩、海岸奶奶、海岸牛仔:海边别墅门廊、市集、野餐、敞篷车、木栈道|中间(春夏)
+- 田园风、薄荷曼波:花园、野餐布、阳光厨房、春天的公园|偏日常(春夏)
+- 雅丹风:沙漠公路边、户外停车场、粗陶工作室|中间(秋)
+- 莫兰迪:素净的室内、陶瓷工作室、留白的墙|中间
+- 多巴胺、Y2K:晴天街头、彩色墙前、霓虹和夜市(光照样写亮)|偏日常(夏)
+- 季节色卡:取自什么场景,就在相近的场景里用(金色秋林配秋天的车里和街头,壁炉旁配冬天的客厅)
+- 偏日常:普通的家用车、普通的家、真实的生活痕迹;偏高级:复古车、精致的布置、少而贵的道具。每次推荐两头都要有。
+
+## 四、2026 流行色(参考,HEX 是近似值)
 - 年度色:Pantone Cloud Dancer #F0EDE8(柔白);WGSN × Coloro Transformative Teal #014F4F(深青)
 - Pinterest 2026:Cool Blue #D7EFFF、Jade #AEB8A0、Plum Noir #351E28、Wasabi #E9F056、Persimmon #FF5C34;推荐混搭:Wasabi 配 Cool Blue、Persimmon 配 Jade、Plum Noir 配 Persimmon
 - 2026 秋冬(Pantone 纽约时装周):Muted Clay、Neptune Green、Green Envy、Arabian Spice、Foxglove、Red Mahogany、Festival Fuchsia、Acacia、All Aboard、Burnt Olive;基础色 Egret、Candied Ginger、Toffee、Underworld、Poseidon
