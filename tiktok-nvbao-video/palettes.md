@@ -43,7 +43,7 @@
 - 质感:羊绒、羊毛、丝、亚麻、真皮
 - 道具:珍珠、细金饰、网球和马球意象、条纹衬衫、草坪
 - 全部低饱和,蓝和驼是弱对比,贵来自克制
-- 实测:只拍手和包的车里,座椅和车门用森林绿皮、少量哑光木纹、椅背搭一件驼色开衫,焦糖豹纹包在深绿上跳出来,复古、偏高级
+- 实测:只拍手和包的车里,座椅和车门用森林绿皮、少量哑光木纹、椅背搭一件驼色开衫,焦糖、驼这类中间色的暖色包在深绿上跳出来,复古、偏高级
 
 **黑帮大嫂风** Mob Wife|冬,晚秋次之
 - 色卡:Jet Black #141414、Oxblood #4A1E1E、Leopard Tan #9A6B32、Antique Gold #B08D4A、Cream #F2EAD9
@@ -196,7 +196,7 @@
 - 秋日咖啡馆窗边,栗子蛋糕和拿铁:Espresso Brown #2E1B10、Chocolate Brown #5A3A2E、Mocha Mousse #A47864、Caramel #C68B4E、Cream #F2EAD9
 - 橄榄林和葡萄园,采摘季:Plum #5E2A4A、Forest Green #2E4A34、Olive Green #6B7248、Camel #C19A6B、Cream #F2EAD9
 - 雨后梧桐大道,落叶湿亮:Charcoal #333338、Burnt Olive #4F4A2E、Brown Sugar #B77656、Mustard #C99A2E、Oatmeal #D9CFC0
-- 金色秋林:Licorice #221204、Russet #753C11、Ochre #C27304、Buff #E2AF72、Platinum #E8E8E8(测过,配豹纹棕包加酒红点缀有感觉)
+- 金色秋林:Licorice #221204、Russet #753C11、Ochre #C27304、Buff #E2AF72、Platinum #E8E8E8(实测有感觉:用亮调、晴天光斑,加一处酒红点缀)
 - 茶山日落:Drab Dark Brown #483E01、Ultra Violet #515370、Old Rose #AB797F、Persian Orange #DD8953、Goldenrod #D8A030
 
 **冬**(深色要深、暖色要浓;要么近黑,要么冰白)
