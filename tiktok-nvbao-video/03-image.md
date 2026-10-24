@@ -17,12 +17,16 @@
 8. 衣服(袖子、裤子、真人出镜的整身)按色卡配纯色,质感和包反着来,不出现别的花纹;有穿搭感,不是一身基础款陪衬(`styling.md` 第一节)。
 
 ## 二、场景图(只拍手和包)
-- **第一句先定这是一张什么照片**:随手拍的 iPhone 照片、哪个季节的什么氛围、不是产品图。
-- **包是随手放着的样子**:靠在座椅上、立在桌上、放在腿上,手正要去拿;不是悬在半空被两只手举着。
+- **第一句先定这是一张什么照片**:随手拍的 iPhone 照片、第一视角还是别人拍、哪个季节的什么氛围、不是产品图。
+- **包是随手放着的样子**:靠在座椅上、立在桌上、放在腿上,手正要去拿;不是悬在半空被两只手举着。写成"包底贴着座位、还没提起来,手指刚勾住提带";只要写了"提起来",模型就会把包举到半空。
+- **机位写死**:车里写"第一视角,她坐在驾驶座,手臂从画面左下角伸进来,副驾车门和车窗在画面右边";镜头略高、往下看,让座椅占满包的身后,窗户只露一小角。
+- **离包最近的大色块不能是全画面最亮的**:袖子、开衫这类紧挨着包的大面积,用色卡里中深的颜色;最亮的应该是包上的高光和窗外一小块天。
+- **道具最多两样**(一样点出时刻、一样随手扔的),不放带流苏、带明显纹理或花纹的东西;包后面要么是座椅,要么是素净的窗外,不是满窗的彩色树。
 - **镜头退远一点**:看得出在哪里(车里看得到座椅、一角挡风玻璃和侧窗;床上看得到床头和窗);包在画面正中间,占画面宽度一半左右。
 - **手**:从离镜头近的那一边伸进来(车里是画面左边);给镜头看小指那一侧;手指放松、微微错开;两三根手指勾着提带,另一只手轻扶或不入画;没有青筋,不按出指坑。肤色按号卡,指甲按这条定(`styling.md` 第三节)。
 - **包照商品图**:Image 1 起上传商品图,写清"只照这只包,其余不照";花纹、颜色、提带、五金、口袋位置写进去;敞口或拉链拉开时,露出的东西按规格卡能装的、按她的身份,颜色和包拉开,不带 logo,不像赠品。
 - **每个颜色写成"东西 + 材质 + 颜色名 + HEX"**,再写一句色卡取自的那个场景,让模型往那个氛围走。
+- **光写清从哪来,和窗户对得上**(窗在右边,就照亮包的右侧);不堆"glow、airy、golden、bright"这类词,堆了会过曝、发金、颜色被冲淡;写"rich, true-to-life color, gentle contrast, not golden, not overexposed"。
 - **构图有问题就整张重做**,不在失败的底图上用 Change only 改构图;Change only 只改小细节。
 
 **模板**(英文,`[ ]` 按本条填)
@@ -33,10 +37,10 @@ The bag: [how it rests: tossed casually on the passenger seat, slumped softly ag
 Her hand: [which hand] reaches in from the [left], [what it does: fingertips just hooking under the handle as if about to grab it] — relaxed fingers with small gaps, pinky side toward the camera, no visible veins. [Skin: depth + undertone], [nails: length, shape, finish, color], [sleeve: color + material]. [No jewelry / one thin ring in the hardware's metal].
 Around the bag: [60 surfaces: material + color name + HEX]; [1-2 tossed items: material + color]; [one item that marks the moment: an iced latte in the cup holder]; [what else is in frame].
 Outside / background: [color-controlled background: golden-yellow autumn trees in the sun and a soft blue sky, slightly out of focus]; no signs, no text.
-Light: bright [time] sunlight coming from [direction], warm, falling in soft light patches across [surfaces] and the bag so [the bag's color] glows; soft shadows, airy and bright, no blown highlights.
+Light: soft natural [time] daylight coming through [the window on which side], slightly warm, lighting [that side] of the bag, gentle natural shading on the other side; rich, true-to-life color with gentle contrast; not golden, not overexposed.
 Colors: [palette name and its five colors] — the mood of [the palette's source scene]; [accent color] only on [two small items]. [Texture contrast: matte knit, smooth leather and the bag's fabric against each other.]
 Style: real iPhone photo, natural, Pinterest-style [season] aesthetic, deep focus, true-to-life color, crisp [material] texture, natural skin texture.
-Avoid: no studio product look, no bag floating in mid-air, no stiff posed hands, no grey overcast light, no other bags, no other patterns, no text or logos, [scene-specific: no steering wheel, no quilted seats], no extra fingers.
+Avoid: no studio product look, no bag held up in the air, no stiff posed hands, no bright sleeve next to the bag, no fringe, no busy background behind the bag, no grey overcast light, no golden haze, no other bags, no other patterns, no text or logos, [scene-specific: no steering wheel, no quilted seats, no arm coming from the right side], no extra fingers.
 ```
 
 ## 三、同框图(真人出镜)
