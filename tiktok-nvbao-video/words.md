@@ -54,7 +54,7 @@ carry it by the handle、in the crook of my arm、on my shoulder、under my arm�
 - 中性色:black、cream、ivory、oat、oatmeal、taupe、greige、stone、charcoal
 - 其他:olive、forest green、navy、denim blue、cobalt、butter yellow、blush pink、baby pink
 - 花纹:leopard、cheetah、croc、plaid、tartan、houndstooth、polka dot、gingham、checkerboard
-- 颜色说成对象和画面:"that caramel leopard"、"this chocolate brown goes with everything I own"
+- 颜色说成对象和画面:"this chocolate brown goes with everything I own"
 
 ## 十、痛点(说得轻、好笑)
 - 两个包:juggling two bags、carrying a gym bag and a work bag
