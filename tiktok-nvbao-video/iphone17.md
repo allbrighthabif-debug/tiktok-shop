@@ -1,7 +1,7 @@
 # 全片画面标准:iPhone 17 手机实拍
 
 全片(分镜、即梦视频)都按"用 iPhone 17 随手拍的"来写,五种拍法都一样。第 2、4 步按这里写,不另编相机参数。
-第 3 步的场景图、同框图也按"随手拍的手机照片"写,用下面的生图写法。
+第 3 步的场景图也按"随手拍的手机照片"写,用下面的生图写法。
 
 ## 用哪个镜头(第 2 步分镜、第 4 步【整体】的"镜头"写这个)
 - **主摄 1x**:48MP,等效 26mm,f/1.6。第三视角、固定机位、对镜自拍都用它。视角正常,平直不变形。
@@ -23,7 +23,7 @@
 ```
 iPhone 17 竖屏实拍,[主摄 1x,平直透视、不变形 / 超广角 0.5x / 前置镜头],眼平机位,[手持跟拍、画面跟着动作晃动 / 镜头固定、画面稳定];画面明亮、曝光充足,光线柔和偏暖,颜色干净自然、饱和度和对比度正常,人脸、手和包光线充足;画面清晰锐利、对焦准确,发丝、包的材质纹理、车线、五金和花纹都清楚;肤色自然,不过度磨皮
 ```
-**生图(英文,第 3 步的场景图、同框图用)**:
+**生图(英文,第 3 步的场景图用)**:
 ```
 photorealistic candid photo shot on iPhone 17, [main camera 1x / 0.5x ultra-wide], vertical 9:16, deep focus with background in focus, bright and well-exposed, soft warm natural light, clean natural colors, normal contrast and saturation, face, hands and bag well lit, sharp focus, crisp fine details, natural glowing skin, no blown highlights, no portrait mode blur, no film grain, no cinematic color grading, no dull or grey look
 ```
