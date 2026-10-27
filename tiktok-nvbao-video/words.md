@@ -20,7 +20,8 @@ tote / tote bag、hobo / hobo bag、slouchy bag、shoulder bag、crossbody / cro
 - 感觉和气质:rich-looking、expensive-looking、effortless、polished、clean、chic、cozy、classic、timeless、low-key、elevated
 - 颜色:按第九节
 - 风格词(chic、effortless、elevated)要带上具体对象说("that slouchy shape looks so effortless"),不单独当一句夸
-- 不用:amazing、stunning、gorgeous 这类空洞的夸;三个形容词排成一串
+- 不用:她讲品的台词里,空洞的夸(cute、gorgeous、amazing、stunning、perfect)和抽象词(quality、style、vibe、aesthetic)不单独用,要挂在看得见、摸得着的东西上;查法是"这句能不能拍出来"。拍的人、路人的一声反应可以用真人口语。
+- 不用:叠词(so so、really really、super super);三个形容词排成一串;一口气报一长串场合;中文网络话术直译(家人们、冲、闭眼入);少用 is、has、feels、looks 这类没画面的动词
 
 ## 四、动词(有动作感)
 toss、throw、slide、sling、swing over my shoulder、hook on my arm、tuck under my arm、stuff、cram、grab、dig、rummage、pop in、zip、drop、pull out、carry、haul、fit、hold、swallow、ate(It ate my gym bag)
@@ -66,8 +67,8 @@ carry it by the handle、in the crook of my arm、on my shoulder、under my arm�
 
 ## 十一、背上效果句(结果前置:先说背上、用起来什么样,再说是哪个设计做到的)
 - 好看:"It makes my whole outfit look put together." / "This bag does all the work for my outfit." / "Plain sweater, jeans, this bag—done."
-- 看着贵:"Everyone asks what brand it is." / "It looks way more expensive than it is."(不报价格)
-- 能装:"My whole day fits in here, and it still looks cute." / "Laptop, gym clothes, snacks—one bag."
+- 看着贵:"My sister asked what brand it is." / "It looks way more expensive than it is."(不报价格)
+- 能装:"My whole day fits in here, and it still zips flat." / "Laptop, gym clothes, snacks—one bag."
 - 软和比例:"It slouches in the best way." / "It hugs my side instead of sticking out."
 - 一包多背:"I wear it on my shoulder to work and crossbody on weekends."(真有才说)
 - 句子只学结构,按这只包和这个人重新说

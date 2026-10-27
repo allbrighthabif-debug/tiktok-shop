@@ -15,7 +15,7 @@
 3. 冷暖七三或八二;饱和度只有点缀高,或者全部都低。
 4. 包和紧挨着它的背景明暗拉开;包是画面里唯一的花纹;背景质感和包反着来(亮面包配哑光,软包配硬朗的底)。
 5. 光:白天,阳光从侧前方照进来,柔和偏暖,在包和周围落出柔和的光斑;包的一侧略亮,另一侧有柔和的明暗;不逆光,不用斜阳、阴天(用户要才用)。阴天调子的色卡(比如晚秋林间铁路)照样写成晴天的光。
-6. 生活感:包旁边 1-2 样随手扔的东西(搭着的开衫、对折的围巾、一串钥匙)加一杯饮料或一样点出时刻的东西;不放垃圾、杂物。
+6. 生活感:包旁边 1-2 样随手扔的东西(搭着的开衫、对折的围巾、一串钥匙)加一样点出时刻的东西(饮料只在场景本来该有时放);不放垃圾、杂物。
 7. 首饰的金属颜色跟着包的五金走;包没有金属五金,手上不戴首饰。
 8. 衣服(袖子、裤子、真人出镜的整身)按色卡配纯色,质感和包反着来,不出现别的花纹;有穿搭感,不是一身基础款陪衬(`styling.md` 第一节)。
 
@@ -40,7 +40,7 @@ A candid iPhone photo (vertical 9:16) [where: inside a parked car / on a bed / o
 Image 1 is the product: reproduce this bag exactly — [bag type], [color and pattern, exact], [material and finish], [handle / strap], [hardware], [pockets and their positions]. Copy nothing else from the photo.
 The bag: [how it rests: tossed casually on the passenger seat, slumped softly against the seat back], front facing the camera, in the center of the frame, about half of the frame width; [opening: the top zipper is open and the edge of a silver tablet peeks out].
 Her hand: [which hand] reaches in from the [left], [what it does: fingertips just hooking under the handle as if about to grab it] — relaxed fingers with small gaps, pinky side toward the camera, no visible veins. [Skin: depth + undertone], [nails: length, shape, finish, color], [sleeve: color + material]. [No jewelry / one thin ring in the hardware's metal].
-Around the bag: [60 surfaces: material + color name + HEX]; [1-2 tossed items: material + color]; [one item that marks the moment: an iced latte in the cup holder]; [what else is in frame].
+Around the bag: [60 surfaces: material + color name + HEX]; [1-2 tossed items: material + color]; [one item that marks the moment]; [what else is in frame].
 Outside / background: [color-controlled background: golden-yellow autumn trees in the sun and a soft blue sky, slightly out of focus]; no signs, no text.
 Light: soft natural [time] daylight coming through [the window on which side], slightly warm, lighting [that side] of the bag, gentle natural shading on the other side; rich, true-to-life color with gentle contrast; not golden, not overexposed.
 Colors: [palette name and its five colors] — the mood of [the palette's source scene]; [accent color] only on [two small items]. [Texture contrast: matte knit, smooth leather and the bag's fabric against each other.]

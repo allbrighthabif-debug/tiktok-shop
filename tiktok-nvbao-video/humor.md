@@ -181,7 +181,7 @@
 - `My other bags are jealous.` — 我其他的包都嫉妒了
 - `It holds my whole life and still looks cute.` — 装得下我整个人生,还好看
 - `No thoughts, just this bag.` — 脑子里什么都没有,只有这只包
-- `Everyone thinks this is designer.` — 每个人都以为这是大牌(不报价格)
+- `My mom thought this was designer.` — 我妈以为这是大牌(不报价格,不点名品牌)
 - `If you buy one bag this fall, make it this.` — 这个秋天只买一个包的话,就买它
 - `Who designed this? Give them a raise.` — 谁设计的?给他加薪
 - `I took this to brunch and three people asked.` — 背去吃早午餐,三个人问我(剧情经历,可以编)

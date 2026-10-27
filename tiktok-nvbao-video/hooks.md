@@ -29,7 +29,7 @@
    - 别人当场的反应 → 9 身边人证明
    - 有一个具体的时间、地点、要去做的事 → 10 场景开场
    - 一包多背、能装一整天、多色 → 11 盘点清单
-   - 观众有明确的疑问可以回 → 12 互动提问
+   - 观众常有一个明确的疑问,可以直接问出来 → 12 互动提问
    - 节日、换季、事件 → 13 借势
    - 想要一开口就好笑 → 15 搞笑开场
 2. **一条一个主族,最多叠一个辅助族**。第 14 族常和别的族叠:拍的人的第一句用 14 的形式,内容借 2、4、6、7 的机制。
@@ -99,7 +99,7 @@
 ## 6 看着贵(适合单人)
 **台词不报价格、不说"不到多少钱";不说"XX 的平替 / dupe"。** 不带数字的"不贵"一条最多说一次。
 - [拍] `That had to be expensive.` → [女] `Nope. TikTok Shop.` — 这肯定很贵吧 → 不贵,TikTok Shop 买的
-- [女] `Everyone asks what brand this is.` — 每个人都问我这是什么牌子
+- [女] `My coworker asked what brand this is.` — 我同事问我这是什么牌子
 - [拍] ES `¿Cuánto te costó?` → [女] `Menos de lo que crees.` — 多少钱?→ 比你想的少
 
 ## 7 人群点名(适合单人)
@@ -111,7 +111,6 @@
 
 ## 8 真心推荐(适合单人)
 - [女] `If I could keep one bag, it's this one.` — 只能留一个包的话,就留它
-- [女] `I never say run. Run.` — 我从来不喊冲,这次冲
 - [女] `I'm getting it in [black] too.` — 我还要再买一只[黑色]的(当下的打算,多色真有才说)
 - [女] ES `Si solo pudiera quedarme con una bolsa, sería esta.` — 要是只能留一个包,就是它
 
@@ -134,11 +133,9 @@
 - [女] ES `Laptop, botella y maquillaje. Y todavía cabe más.` — 电脑、水杯和化妆品,还装得下
 
 ## 12 互动提问(适合单人)
-评论内容只从用户给的评论截图或第 1 步的痛点里取,不编。
+问题从第 1 步的痛点或用户给的评论里取,不编;不做屏幕挂评论、回复评论的视频。
 - [女] `Be honest—work bag or weekend bag?` — 说实话,这是通勤包还是周末包?
-- [女] `Replying to @[user]: yes, a 13-inch laptop fits.` — 回复@某人:对,13 寸电脑放得下(按规格卡)
 - [拍] `Rate it. One to ten.` — 打个分,一到十
-- [女] ES `Respondiendo a @[user]: sí, cabe la laptop.` — 回复@某人:对,电脑放得下
 
 ## 13 借势(适合单人)
 节日、换季、事件。日期真实;季节按发布时。
@@ -150,7 +147,7 @@
 ## 15 搞笑开场(适合单人)
 一开口就好笑,笑点紧接着落到包上。规矩按 `humor.md`。
 - 情话开场(男友、闺蜜拍;她马上回怼,回怼里带卖点):[拍] `Is it illegal to look that good on a Tuesday?` → [女] `It's the bag. Obviously.`
-- 戏精、自嘲:[女] `My bag weighs more than my will to live, but at least it's cute.` — 我的包比我的求生欲还重,但至少好看|[女] `Do not perceive me.` — 挡着镜头开场,然后放下手给看包|[女] `I have a bag problem. This is the solution.` — 我有包瘾,这只就是解药
+- 戏精、自嘲:[女] `My bag weighs more than my will to live, but at least it zips shut.` — 我的包比我的求生欲还重,但至少拉得上|[女] `Do not perceive me.` — 挡着镜头开场,然后放下手给看包|[女] `I have a bag problem. This is the solution.` — 我有包瘾,这只就是解药
 - 西语:[拍] ES `¿Y tanta bolsa para qué?` — 背这么大的包干嘛?|[女] ES `Me creo mucho hoy, no me hables.` — 今天我觉得自己超牛,别跟我说话
 
 ---
