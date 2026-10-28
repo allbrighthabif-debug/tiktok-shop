@@ -2,6 +2,22 @@
 
 第 2 步写台词、第 4 步写发布包时用。写台词前先读 2-3 条 `voice-samples.md`,再从这里挑词。词是给你挑的,不是拼的:一句里放一两个,配 so、super、literally 这类口语加强;同一个窗口里同一个词别反复用。所有说法都要和规格卡对得上(材质、能装什么、背法不编)。
 
+## 文案用词写法(先读这一节;只学写法,不照抄例句)
+包和鞋是单品:女生买它常常是为了配自己的衣服,所以文案从她的生活和她身上那件衣服说起,卖点夹在中间,最后落在背上身的效果。
+1. **开头说"我为什么买"**,不说"这是什么":第一人称 + 她自己的东西 + 买的理由。"I bought this just for my grey coat."
+2. **先给自己贴个自嘲标签,再引出卖点**:"I'm the laziest person alive, so it had to be crossbody."
+3. **卖点用因果链串**:结构 → so → 感受;连接词 so、and、plus、that's why、the best part,听起来是顺着想、顺着说,不是列清单。
+4. **感受打个比方**:软、厚、轻这类抽象的词,换成摸得到的东西。"thick, like a broken-in denim jacket"、"it's like butter"。
+5. **用买家自己的行话去否定她们怕的事**:每说一个"不会",打消一个顾虑。"not floppy at all"、"doesn't look like a grocery tote"、"zero shoulder dig"。
+6. **用 Look— / Watch— / See? 把每句钉在动作上**:说一个卖点,让观众看一个证明。
+7. **时间证言**:"I've carried it every day for a month."(使用证言要有评论或详情页依据)
+8. **一个不体面但真实的小细节**:有点糗的瞬间最像真人。"no more digging for my keys while the barista's waiting"。
+9. **上身效果:先比例,再具体画面,最后才是气质词**:"It sits right on my hip, the coat hangs straight — it looks so effortless." 气质词单独说是空的,前面有画面垫着才立得住。
+10. **程度词口语化**:so、literally、like、honestly,一条两三个就够,同一个词不重复。
+**真人说话的样子**:先接情绪再说事;有一句说一半;至少一处自嘲或互损;卖点顺嘴带出,不报参数;不写对仗句(不写"X for this, Y for that"那种工整的排比)。
+**说"值"不说价**:has some weight to it、looks way more expensive than it is、this is my everyday bag;不说划算、性价比、deal。
+**美国人的说法,不是翻译腔**:不说 very convenient、it's very practical、the feeling is super soft;说 so easy、it just works、it's like butter。中文对话只当翻译看,不拿它写英文。
+
 ## 一、怎么让人想得出画面
 每句台词至少占下面两样:
 - 一个落在包身上的形容词(第三节)
