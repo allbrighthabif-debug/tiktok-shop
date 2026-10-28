@@ -69,6 +69,7 @@
 - 简约不单调:simple but not boring, not basic
 - 细节控:for my detail girlies, "the details!!", "whoever designed this gets it"
 - 不廉价:doesn't look cheap at all, looks way more expensive(不说价格)
+- 值(不说价格):has some weight to it(有分量), looks way more expensive than it is, this is my uniform(天天穿它), I wore this for errands and dinner(一套跑腿吃饭都行);只学说法
 - 印花:说图案本身(什么图案、在哪);不掉色、不开裂只按详情页说
 
 ## 六、版型和品类名
