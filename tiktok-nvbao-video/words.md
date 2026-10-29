@@ -14,7 +14,9 @@
 8. **一个不体面但真实的小细节**:有点糗的瞬间最像真人。"no more digging for my keys while the barista's waiting"。
 9. **上身效果:先比例,再具体画面,最后才是气质词**:"It sits right on my hip, the coat hangs straight — it looks so effortless." 气质词单独说是空的,前面有画面垫着才立得住。
 10. **程度词口语化**:so、literally、like、honestly,一条两三个就够,同一个词不重复。
-**真人说话的样子**:先接情绪再说事;有一句说一半;至少一处自嘲或互损;卖点顺嘴带出,不报参数;不写对仗句(不写"X for this, Y for that"那种工整的排比)。
+**真人说话的样子**:先接情绪再说事;有一句说一半;至少一处自嘲或互损;卖点顺嘴带出,不报参数;不写工整的对仗排比("X for this, Y for that");但口语里的重复递进可以用,最后一下落到情绪上,比如 "Room for snacks. Room for lip gloss. Room for life."(真实视频原句)。
+**说小缺点**(评论或规格卡有依据才说,不碰核心卖点,马上接还是值得):"Honestly, the only thing is…"、"Not gonna lie, the hardware's a little light — but for everyday? Perfectly fine."、"Watch the zipper teeth, but it's sturdy. I'd buy another."
+**回购和时间证言**(要有评论依据):"Top 3 reasons I'd buy this again"、"I've carried it every day for a month."
 **说"值"不说价**:has some weight to it、looks way more expensive than it is、this is my everyday bag;不说划算、性价比、deal。
 **美国人的说法,不是翻译腔**:不说 very convenient、it's very practical、the feeling is super soft;说 so easy、it just works、it's like butter。中文对话只当翻译看,不拿它写英文。
 

@@ -2,11 +2,11 @@
 
 卖鞋时先读 `shoes.md`,和这里冲突以它为准。
 
-在 ChatGPT 生图,用户自己生成、自己检查;交完停。
-- **两条路都先定白底锚点图**(第三节):商家有干净的正面图直接用,没有就出白底重绘提示词。
-- **只拍手和包**:再出一张 9:16 场景图(第二节)。这张图就是视频的第一帧和配色基准,图不好看视频不可能好看,所以配色、光、质感、时刻四样都要到位。
-- **真人出镜**:只要锚点图,不出别的图;身材、衣服、背法、场景、配色第 4 步全写成文字(第一节照样内部定好)。
-- 建号时做一次人脸四视图(第四节)。
+**这一步按需,默认跳过**(让用户少做图):锚点图在第 1 步从商家图里挑,场景写成文字,文案定了直接进第 4 步。只有下面几种情况才出图,在 ChatGPT 生成,用户自己检查;交完停。
+- **白底重绘锚点图**(第三节):商家图全是模特图、背景乱到看不清包,挑不出一张能用的;或者生成过一次包画错了(比如亮面被画成塑料)。重绘时光线均匀、没有大块反光。
+- **只拍手和包的场景图**(第二节):机位要求很死(车里副驾)或者文字生成出来不满意时才出。出的话这张图就是视频的第一帧和配色基准,配色、光、质感、时刻四样都要到位。
+- **建号时做一次**(第四节):人脸四视图;身材曲线图可选,建议也做,以后每条复用。
+- 真人出镜不出场景图、同框图;身材、衣服、背法、场景、配色第 4 步全写成文字(第一节照样内部定好)。
 
 ## 一、先定配色和布景(内部定,交付写一句)
 按 `palettes.md` 和 `styling.md`:
@@ -63,8 +63,9 @@ Light: soft, even light, a faint natural shadow under the bag, true-to-life colo
 Avoid: changed or blurred pattern, extra or missing hardware, extra pockets, a different strap, warped shape, any extra text or logos.
 ```
 
-## 四、建号时做一次:人脸四视图(真人出镜的号)
-用户发"做参考图",或者第一次建号还没有这张图时出。在 ChatGPT 生成,不传图,全按角色卡写;浅灰纯色背景,图上不放任何字(字会被即梦画进视频)。身材不出图,第 4 步用文字写身高体重和一句身形词。
+## 四、建号时做一次:人脸四视图 + 身材曲线图(真人出镜的号)
+用户发"做参考图",或者第一次建号还没有这张图时出。在 ChatGPT 生成,不传图,全按角色卡写;浅灰纯色背景,图上不放任何字(字会被即梦画进视频)。身材曲线图可选:做了就在即梦里当 @图片3 传,每条复用,视频里身材更稳、不容易变胖变瘦;没做就用文字写身高体重和一句身形词。
+- **身材曲线图**(即梦里只管身材比例和腿长):横排四张竖格(正面、45 度、侧面、背面),不用田字格(会把全身压扁、腿变短);从下巴截到脚,不露脸、看不见嘴,四格比例一样、像同一个身体,脚完整;头发盘到头顶的画面外,图里不出现头发;穿贴身白背心 + 厚实不透的浅灰高腰紧身骑行短裤,赤脚,看得清身材线条。肤色一样的号可以共用一张;肤色不同,只改 Skin 那一句再出一张。
 - **人脸四视图**(传即梦当 @图片2,管脸、发型、发色、妆容):田字格(2x2),正面、3/4、左侧脸、右侧脸,不要背面;只拍头和肩,每格一样大。
 - 发色写清"从发根到发尾同一个颜色"(角色本来就有深发根的除外),不然容易被画成挑染。
 - 想要的颜色和参考图不一样时(比如有张喜欢的图是深发,要做金发),写"脸和妆容照参考图,只换发色",不写"头发跟参考图一样",不然两边打架。
@@ -85,6 +86,33 @@ Background: plain light grey in every panel. Soft, even, flattering light.
 Style: photorealistic, natural skin texture, sharp focus on the face.
 Avoid: any text, watermark, different hair or makeup between panels, a back view, cropped chin[, the hair color she should not have].
 ```
+
+**身材曲线图模板**
+```
+Make a body reference sheet: four tall vertical panels in one row, wide landscape image (3:2), thin white gaps between panels: front view, 45° view, side view, back view.
+Same crop in every panel: from just below the chin down to the feet — her mouth and lips are not visible — and both feet fully visible. Same scale in every panel. It is clearly the same body in all four panels.
+
+Body: about [height], long legs (legs clearly longer than half her height), [身材词 from the character card]. Feminine, not muscular.
+Waist: in the front view her waist curves in clearly between her bust and hips.
+Glutes: [按角色卡写大小], high, round and lifted. In the side view they curve out clearly behind her; in the back view they are round and full in the shorts — natural-looking, not surgical.
+Skin: [depth + undertone], even on the neck, arms and legs.
+Hair: pulled up into a high bun on top of her head, above the crop and out of frame — no hair on her neck, shoulders or back in any panel.
+Outfit: fitted white ribbed tank top; thick, opaque, smooth matte light-grey high-waisted compression bike shorts with a V-shaped back waistband, mid-thigh length, fully covering her glutes; barefoot.
+Nails: short, plain nude nails.
+Pose: relaxed and natural, both feet flat on the floor in every panel. Front view turned slightly to 3/4, weight on one leg. 45° and side views: chest up, a natural arch in her lower back. Back view: weight on one leg, the other knee slightly bent. Camera at hip height for the 45°, side and back views.
+Background: plain very light grey (almost white). Soft light from the front-left plus a soft side light from behind, with gentle shadows that show her curves.
+Style: photorealistic, natural skin texture, clean body-reference photo.
+Avoid: showing the face or lips, any visible hair, tattoos, jewelry, visible muscle definition, muscular or broad shoulders, thick or bulky thighs, a boxy straight waist, exaggerated or surgical-looking glutes, a flat seat, short legs, standing on tiptoe, loose shorts, the camera looking down from above, cutting off the feet, different crops or body sizes between panels, dark background, any text, watermark.
+```
+
+**身材曲线图常见问题**(一次只改一处,用 `Change only: …`)
+- 屁股不翘、显平:侧面和背面两格写塌腰、骨盆微微前倾、重心在一条腿上、相机在髋部高度;短裤要贴身的紧身面料,不要厚棉宽松的。
+- 屁股太大、像做过手术:写 in proportion with her hips, natural-looking, not surgical。
+- 肌肉块太多、像运动员:删掉 toned、muscle 这类词,写 feminine, not muscular, no visible muscle definition。
+- 太瘦、没有肉感:写 soft and full-figured at the bust, hips, glutes and thighs, not skinny。
+- 四格不像同一个身体(胸或屁股一格大一格小):`Change only: make it clearly the same body in all four panels — …`,写清哪一格照哪一格。
+- 踮脚:写 both feet flat on the floor in every panel。
+- 露出嘴:写 her mouth and lips are not visible。
 
 ## 五、包特有的画错风险(提示词里写进 Avoid 或单独一句)
 - 满格花纹、格纹:写 "the [pattern] stays exactly as in Image 1, same spot size and spacing, no bent or blurred lines"。
