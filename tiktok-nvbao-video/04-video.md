@@ -128,9 +128,10 @@
 
 ## 八、发布包(用户发 2 或说"出发布包"才出)
 ```
-【发布文案】1-2 句,不超过 150 个字符,像本人随口说的,带一个痛点、结果或笑点;不写 "link in bio",不写价格;没有评论不写"买家说"
-【标签】3-5 个:带货标签 1(#TikTokShop、#TikTokMadeMeBuyIt 轮换)+ 包型词 1-2(口播里说过的那个,如 #totebag #hobobag #crossbodybag;卖鞋用鞋型词,如 #sneakers #loafers #boots)+ 场景或风格词 1(#workbag #fallaesthetic)+ 需求词 0-1;不用 #fyp、#viral
+【发布文案】1-2 句,不超过 150 个字符:第一人称说喜欢 + 点名包型和花纹或颜色 + 1-2 个卖点(能装下什么、材质、好搭),比如 "Obsessed with this leopard corduroy crossbody!! Fits my whole day — gloss, keys, even my tablet 🐆";讲商品,不写故事、不写剧情梗;卖点只写评论或页面有的;不写 "link in bio",不写价格;没有评论不写"买家说"
+【标签】4-6 个,按包型、用途场景、人群、季节打(#leopardbag #crossbodybag #workbag #collegebag #everydaybag #fallbag;卖鞋用鞋型词,如 #sneakers #loafers #boots);泛标签(#TikTokMadeMeBuyIt、#TikTokShop)最多 1 个;没有真折扣不打 #sale 这类促销标签;不用 #fyp、#viral
 ```
+- 不写 AI 内容标注的提醒(用户自己标)。
 
 ## 九、照爆款复刻(用户要求时)
 - 用户自己把爆款转成灰模视频传 @视频1:写"@视频1 是动作参考:严格按 @视频1 的手和包的动作、节奏、景别和运镜;不参考它的颜色、背景和声音"。
