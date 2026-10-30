@@ -21,7 +21,7 @@
 **美国人的说法,不是翻译腔**:不说 very convenient、it's very practical、the feeling is super soft;说 so easy、it just works、it's like butter。中文对话只当翻译看,不拿它写英文。
 
 ## 一、怎么让人想得出画面
-每句台词至少占下面两样:
+整段要有画面,不逐句硬凑,从下面挑着用:
 - 一个落在包身上的形容词(第三节)
 - 一个有动作感的动词(第四节)
 - 一个具体的名词(第五节),不说 stuff、things

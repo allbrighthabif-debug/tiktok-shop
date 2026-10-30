@@ -20,7 +20,7 @@
 - 用户说"**存入样本库**"并给出新口播原文:按下面的格式加到末尾,标品类、字数和对话体 / 西语;重复的不收。
 
 ## 分组速查
-- **对话体**(第三视角最该学的):04 07 09 12 40 41 53 71 76 82 101-108。其中 101-108 是"偶遇惊讶 + 松弛回应"一家:拍的人惊讶发问 → 女主松弛回应 → 追问、让转身 → 报卖点 → 甩链接,对应框架 F31。
+- **对话体**(第三视角最该学的):04 07 09 12 40 41 53 71 76 82 101-108。其中 101-108 是"偶遇惊讶 + 松弛回应"一家:拍的人惊讶发问 → 女主松弛回应 → 追问、让转身 → 报卖点 → 甩链接。
 - **尺码参照**:03 05 14 17 18 19 21 34 51 72 74 78
 - **西语**:09 72 75 76
 - **男装**:34 35 36 37 40 41 72 101-106
@@ -32,7 +32,7 @@
 ### 编号 [品类] 一句话说明 〔字数〕
 > 口播原文逐句
 真人感来源:具体在哪句
-可借鉴:对应的钩子族、框架、尺码说法、CTA;注意事项
+可借鉴:对应的钩子族、尺码说法、CTA;注意事项
 
 ---
 
@@ -66,7 +66,7 @@
 > They do come in multiple different colors, absolutely would recommend.
 > If you know anything about [品牌], you know their stuff is chef's kiss.
 真人感来源:「holy freaking gap」、自造词「shapewearing」;「don't be fooled by the looks」先防质疑。
-可借鉴:钩子 1 结果先行;框架 F22。注意:原片穿前穿后对比、往里塞东西测弹力,一镜到底和"不演穿脱"做不了,只学语气。
+可借鉴:钩子 1 结果先行。注意:原片穿前穿后对比、往里塞东西测弹力,一镜到底和"不演穿脱"做不了,只学语气。
 
 ### 03 [大码女装/运动裙裤] 窄人群点名 + 买大一码的真实选码经验 〔92 词·长样本:只学语气〕
 > [品牌] always has the girlies with back rolls in mind.
@@ -84,7 +84,7 @@
 > Babe, you don't need to wear a bra with that?
 > Surprisingly no, it has a lot of compression right here, so it actually holds up the girls really good.
 真人感来源:「Surprisingly no…holds up the girls really good」口语;安全裤、不用穿内衣都是被问出来的。
-可借鉴:框架 F35 隐藏细节;卖点是被问出来的,不是宣讲出来的。
+可借鉴:卖点是被问出来的,不是宣讲出来的。
 
 ### 05 [女装/牛仔裤] 价格数字开场 + 身高尺码参照 〔94 词·长样本:只学语气〕
 > $19 jeans, you guys.
@@ -134,7 +134,7 @@
 > They have so many colors.
 > I can link them right here if anybody wants them.
 真人感来源:「easy bathroom access」「thighs don't rub together」广告里不好意思说的日常痛点;「Hell yeah」。
-可借鉴:钩子 14 拍摄者开头(担心质疑);框架 F35;软 CTA。
+可借鉴:钩子 14 拍摄者开头(担心质疑);软 CTA。
 
 ### 09 [塑身/塑形短裤]〔对话体·西语〕闺蜜羡慕发问 → 展示结构 〔174 词·长样本:只学语气〕
 > Amiga, ¿tú cómo haces para que no se te marque ni un huequito, ni un rollito con esos vestidos? O sea, yo no puedo.
@@ -172,7 +172,7 @@
 > Okay, well, then send me a link, cuz I'm getting you another one.
 > Yeah, I'll send you a link, and I'm gonna go finish this video.
 真人感来源:误会 + 辩解;「feel how buttery soft these are」让对方摸。
-可借鉴:钩子 14 误会;框架 F33;软 CTA 拍的人要链接(「send me a link, cuz I'm getting you another one」)。注意:一镜到底只穿一件,其他颜色只说。
+可借鉴:钩子 14 误会;软 CTA 拍的人要链接(「send me a link, cuz I'm getting you another one」)。注意:一镜到底只穿一件,其他颜色只说。
 
 ### 14 [塑身/安全裤] 断言开场 + 身高体重尺码 〔197 词·长样本:只学语气〕
 > If you don't wear boy shorts underneath your dresses, then you're doing it wrong.
@@ -189,7 +189,7 @@
 > I'm 5'6", 140 lbs, I get a medium in these.
 > Couple different color options to choose from, grab it if you see the price I'm seeing it for, they're in that orange cart.
 真人感来源:「I'm 5'6", 140 lbs, I get a medium in these」;「it doesn't have that band at the top that pinches and digs in」。
-可借鉴:钩子 2 痛点共情(断言);尺码"参照型""松紧型";框架 F32、F23。注意:"试过好几个牌子"是个人经历,AI 主角不照搬。
+可借鉴:钩子 2 痛点共情(断言);尺码"参照型""松紧型"。注意:"试过好几个牌子"是个人经历,AI 主角不照搬。
 
 ### 15 [女装/抹胸上衣] 窄人群痛点点名(产后) 〔82 词·长样本:只学语气〕
 > If you have long sagging boobs, these tube tops requires no bra.
@@ -209,7 +209,7 @@
 > I don't like this, so I do this.
 > All the reviews say they bought 10 of these.
 真人感来源:「This right here bugs me」配手指,不点名部位,人人可代入;「All the reviews say they bought 10 of these」用评论当证据。
-可借鉴:钩子 2;框架 F01;"this right here" 配手指的说法很适合画面。
+可借鉴:钩子 2;"this right here" 配手指的说法很适合画面。
 
 ### 17 [女装/挂脖背心] 先抑后扬催买 + 身高体重罩杯全报 〔243 词·长样本:只学语气〕
 > Okay, I normally don't tell people to run when it comes to something, but I'm telling you right now, run to get this shirt.
@@ -280,7 +280,7 @@
 > So, for a corporate girlie that doesn't really know where to shop for clothes, start here.
 > They make the perfect stuff, and you can make any outfit out of this.
 真人感来源:「Honestly, looks like I spent $60, $70 on it, and I did not」;「I'm in a size small, and I'm 5'10"」。
-可借鉴:钩子 7;框架 F12 看着贵(锚价真实、不点品牌);"corporate girlie" 身份标签。
+可借鉴:钩子 7;"corporate girlie" 身份标签。
 
 ### 34 [男装/T 恤五件装]〔男装〕数数开场 + 身高体重正常码 〔174 词·长样本:只学语气〕
 > One for Monday, one for Tuesday, one for Wednesday, one for Thursday, and one for Friday.
@@ -297,7 +297,7 @@
 > I'm 5'10", 160 pounds and this is a medium, and that's my normal size.
 > So if you guys want to go pick these up before your favorite colors are gone, I'm gonna try and drop a link somewhere down below so you guys can go check these out.
 真人感来源:「I'm 5'10", 160 pounds and this is a medium, and that's my normal size」;「these shirts may be cheap, but they're not cheap quality」。
-可借鉴:钩子 6、11 数数开场;框架 F28;尺码 "true to size"(有依据才说)。
+可借鉴:钩子 6、11 数数开场;尺码 "true to size"(有依据才说)。
 
 ### 35 [男装/T 恤三件装]〔男装〕"别买"反向劝退 〔90 词·长样本:只学语气〕
 > Don't get these
@@ -311,7 +311,7 @@
 > And you don't have to guess on sizing 'cause they fit true to size.
 > These are selling out quick for summer, so I left a link somewhere down here so you can get yours.
 真人感来源:「Don't get these unless…」第二句马上反转;「0% polyester」否定式强调。
-可借鉴:钩子 4 反差反转;框架 F28 极简三段。
+可借鉴:钩子 4 反差反转。
 
 ### 36 [男装/工装裤]〔男装〕痛点连珠炮 → 换成这条 〔293 词·长样本:只学语气〕
 > This is exactly why I stopped wearing jeans to work.
@@ -333,7 +333,7 @@
 > And they just put them on a big summer sale with free shipping, so these have been selling out like crazy,
 > so if you want to pick these up before they're all gone or before they jack up the price, I'll throw that link for you right down there.
 真人感来源:逐个数口袋;「stiff as hell」。
-可借鉴:钩子 5 避坑;框架 F05 同类的坑(只说"别的同类",不点名)。注意:含脏话,不照搬。
+可借鉴:钩子 5 避坑。注意:含脏话,不照搬。
 
 ### 37 [男装/健身背心]〔男装〕"练出身材却穿错背心" 〔235 词·长样本:只学语气〕
 > So you finally achieve a half-decent physique,
@@ -362,7 +362,7 @@
 > and the price is never going to be lower,
 > so I just figured I'd put that link for you right down there.
 真人感来源:前 5 句吐槽别的背心;「this ain't it」。
-可借鉴:钩子 5 避坑、7 人群点名;框架 F05。注意:原片"this or this"换着穿对比,一镜到底只能说。
+可借鉴:钩子 5 避坑、7 人群点名。注意:原片"this or this"换着穿对比,一镜到底只能说。
 
 ### 40 [男装/Polo]〔男装·对话体〕朋友"你看着壮了" → "是衣服显的" 〔152 词·长样本:只学语气〕
 > Bro, you're looking huge.
@@ -386,7 +386,7 @@
 > I bet. I like. Right here for you, right, bit?
 > I'll pick some up. Right here for you.
 真人感来源:「Bro」高频;价格反差藏在对话里(以为要一百刀 → 三件不到 40)。
-可借鉴:钩子 14;框架 F12;年轻男性对话语感。注意:原句点名的高价品牌已换成 [品牌],新稿不点名。
+可借鉴:钩子 14;年轻男性对话语感。注意:原句点名的高价品牌已换成 [品牌],新稿不点名。
 
 ### 41 [男装/工装裤]〔男装·对话体〕朋友担心"裤子会不会搞坏" 〔114 词·长样本:只学语气〕
 > Yo dude, what are you working on?
@@ -429,7 +429,7 @@
 > Let me see the back of it.
 > Damn, that's a badass shirt.
 真人感来源:只有 3 句,没有卖点罗列,靠别人当场的反应。
-可借鉴:钩子 9、14;框架 F30 转身揭晓(「Let me see the back of it」)。
+可借鉴:钩子 9、14。
 
 ### 55 [女装/连体短裤] 节日倒计时 + 锚价 + 到货时间 〔224 词·长样本:只学语气〕
 > Girls you only have a week left to order things to get them in time for your July 4th trip
@@ -458,7 +458,7 @@
 > It's giving vacation lunch, but I can still walk into a meeting.
 > I'll link it because I already know someone's going to ask.
 真人感来源:「The neckline is my favorite part…and look at this waist」具体到剪裁;「It's giving vacation lunch」。
-可借鉴:钩子 14;框架 F31;软 CTA「I'll link it because I already know someone's going to ask」。
+可借鉴:钩子 14;软 CTA「I'll link it because I already know someone's going to ask」。
 
 ### 72 [男装/衬衫]〔男装·西语〕"只要三件衬衫就选这些" + 身高体重码 〔195 词·长样本:只学语气〕
 > Si solo vas a tener tres camisas, que sean estas.
@@ -520,7 +520,7 @@
 > Los compré en TikTok.
 > Nice.
 真人感来源:「Se ven bien caros」→「Pero no lo es」误会反转;「Oye / Ey / bro」即兴感。
-可借鉴:钩子 14 路人搭讪;框架 F36、F12。
+可借鉴:钩子 14 路人搭讪。
 
 ### 77 [女装/背心] "腋下有肉的姐妹,你领口选错了" 〔76 词·长样本:只学语气〕
 > If you have big armpit girls, literally if your tank tops are doing that, you literally have the wrong neckline.
@@ -530,7 +530,7 @@
 > Buttery, stretchiest material that takes you in.
 > I did still see a few smalls left, but I would not wait.
 真人感来源:「don't sleep on this wine color」;「I did still see a few smalls left, but I would not wait」。
-可借鉴:钩子 2、5;框架 F01;结尾断码(页面上真能看到才说)。
+可借鉴:钩子 2、5;结尾断码(页面上真能看到才说)。
 
 ### 78 [大码女装/连体裤] "我的 apron belly 哪去了" + 码数自曝 〔130 词·长样本:只学语气〕
 > Okay, I'm not completely ready, but I wanted to show you this one-piece jumper.
@@ -554,7 +554,7 @@
 > Well, it's kind of both. It's a dress, but it's also a romper. I don't know why you can see the shorts, but it's actually kind of cute. Or does it look bad?
 > No, I like it. See, right?
 真人感来源:「I don't know why you can see the shorts, but it's actually kind of cute. Or does it look bad?」自我怀疑。
-可借鉴:钩子 14 误会;框架 F33。注意:原片没有显性 CTA,我们要补上促单。
+可借鉴:钩子 14 误会。注意:原片没有显性 CTA,我们要补上促单。
 
 ### 101 [男装/休闲套装]〔男装·对话体〕"这是你的懒人穿搭?" 〔48 词·偏长〕
 > Wait. That's your lazy fit?
@@ -570,7 +570,7 @@
 > This is a dad gift cheat code.
 > Exactly. Tap the...
 真人感来源:「Drawstring, pockets, easy.」极短的回答;「Turn, turn, let me see it」。
-可借鉴:钩子 14;框架 F31;"dad gift" 人群 + 场景。
+可借鉴:钩子 14;"dad gift" 人群 + 场景。
 
 ### 102 [男装/Polo 三件装]〔男装·对话体〕"Polo 穿进办公室这么干净?" 〔45 词·偏长〕
 > Wait, a polo to the office looks that clean?
@@ -583,7 +583,7 @@
 > Easy.
 > Links bottom left, go quick.
 真人感来源:「Soft cotton, not stiff. I can move.」触感 + 动作。
-可借鉴:钩子 14 反差场合;框架 F31。
+可借鉴:钩子 14 反差场合。
 
 ### 103 [男装/Polo 三件装]〔男装·对话体〕"穿 Polo 去开会?"(同品换切入) 〔55 词·偏长〕
 > Wait, you wore a polo to that meeting?
@@ -604,7 +604,7 @@
 > Vacation dinner, date night, same set.
 > I'll put it there. You already convinced me.
 真人感来源:「It doesn't cling, so I can actually move.」垂坠 + 能动。
-可借鉴:框架 F34 一套多场合(「Vacation dinner, date night, same set」);软 CTA「You already convinced me」。
+可借鉴:软 CTA「You already convinced me」。
 
 ### 105 [男装/旅行套装]〔对话体〕接机"他下飞机就这么帅" 〔51 词·偏长〕
 > Y'all, look at him. He landed looking this good!
@@ -615,7 +615,7 @@
 > Loose, but still clean.
 > Put the link there before our next trip.
 真人感来源:「One set? It looks like you planned three outfits.」数字反差。
-可借鉴:框架 F34;结尾回扣场景(「before our next trip」)。
+可借鉴:结尾回扣场景(「before our next trip」)。
 
 ### 106 [男装/居家裤]〔对话体〕"你穿睡裤过机场?" 〔51 词·偏长〕
 > Wait, you wore lounge pants through the airport?
@@ -626,7 +626,7 @@
 > Clean little back turn.
 > It's lightweight but not sloppy. I put the link lower left.
 真人感来源:「It doesn't look like airport sweats.」;「plane seat approved」。
-可借鉴:钩子 14 反差场合;框架 F11 反常识。
+可借鉴:钩子 14 反差场合。
 
 ### 107 [女装/露背连体衣]〔对话体〕闺蜜互怼"说好随便穿,你却像要盛大登场" 〔84 词·长样本:只学语气〕
 > Girl, absolutely not. You said casual, why do you look like you planned a whole entrance?
@@ -637,7 +637,7 @@
 > Exactly. Simple but not boring.
 > Fine, that's the fit.
 真人感来源:「I swear I just threw this on」;「No, pause」「Fine, that's the fit」斗嘴。
-可借鉴:钩子 14;框架 F31、F30(「I need the back」);背面设计的说法「The tie-back is the whole moment」。
+可借鉴:钩子 14;背面设计的说法「The tie-back is the whole moment」。
 
 ### 108 [女装/蝴蝶结连衣裙]〔对话体〕逛市场"你却 soft launch 新人格" 〔42 词·偏长〕
 > You said farmers market not soft launching a new personality.
@@ -647,7 +647,7 @@
 > Turn around, the bow did all that.
 > Fine, you win. Now we're getting coffee.
 真人感来源:「Please stop, I already feel awkward」被怼后不好意思的真情绪。
-可借鉴:钩子 14 反差场合;框架 F31;女主害羞、不好意思的情绪写法。注意:原片没有显性 CTA。
+可借鉴:钩子 14 反差场合;女主害羞、不好意思的情绪写法。注意:原片没有显性 CTA。
 
 ---
-来源:旧版口播样本库的服装类样本(原编号保留),分析按本 skill 的钩子族、框架和尺码规则重写。
+来源:旧版口播样本库的服装类样本(原编号保留),分析按本 skill 的钩子族和尺码规则重写。
