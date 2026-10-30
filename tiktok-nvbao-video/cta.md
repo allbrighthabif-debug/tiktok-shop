@@ -13,7 +13,7 @@
 5. **不说按钮话**:`Tap the yellow cart`、`Shop now`、`Order now`、`BUY NOW`、`Click the link below`(按钮话不用;口语的"链接放下面了、去拿一只"见硬 CTA 第 4 条)、`Add to cart`、`Don't miss this offer`、`Shopping cart, go` 这类不用。
 6. **禁用清单**(各个号反复出现过,一律不用):`It's in the [任何颜色] cart / basket` 当结尾(前面有没有理由都算)、`Thank me later`、`Trust me`、`Run, don't walk`、`You're welcome`、`You need this in every color`。
 7. **最后一句由女主说**,不超过 12 个词,说完视频就结束;那一格只配小动作,不配转身。前面可以有拍的人一声反应。
-8. **台词不说价格**:先把心里价立起来(做工近景、看着像什么、拍的人的反应;说"值"的说法:has some weight to it、looks way more expensive than it is、this is my everyday bag,不说划算、性价比),最后再用一句不带数字的"不贵"往下压;不报数字,不说"不到多少钱""打几折",不拿生活里的东西比价格。不带数字的"不贵"可以说,一条最多一次。
+8. **台词不说价格**:先把心里价立起来(做工近景、看着像什么、拍的人的反应;说"值"的说法:has some weight to it、looks way more expensive than it is、this is my everyday bag,不说划算、性价比),最后再用一句不带数字的"不贵"往下压;不报数字,不说"不到多少钱""打几折",不拿生活里的东西比价格。不带数字的"不贵"可以说,一条最多一次;被夸以后顺口说最自然:"Thank you! And it was a steal." / "Honestly? Way cheaper than it looks." / "You'd never guess what I paid."(留悬念,让人点商品卡看价格)。
 9. **紧迫必须真实,不写死时间**:机制只说长期有效的(包邮、多件优惠、长期买赠),短期活动、断码、补货不进台词;马上要到的那件事按实际发布日期;"今天结束""only today"这类不说。
 10. **全西语的号**按同样的思路用西语说法写,不从英语直译;**英西混说的号**,CTA 用英语说,可以夹一个西语称呼。
 11. 用户说"**换促单**"或"**换 CTA**":只换这几句,其余不动。

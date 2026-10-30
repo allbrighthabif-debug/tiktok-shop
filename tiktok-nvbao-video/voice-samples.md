@@ -143,8 +143,8 @@
 > Turn around, the bow did all that.
 > Fine, you win. Now we're getting coffee.
 真人感来源:「Please stop, I already feel awkward」被怼后不好意思的真情绪。
-可借鉴:钩子 14 反差场合;女主害羞、不好意思的情绪写法。注意:原片没有显性 CTA。
-注意:"The neckline is cute""the bow did all that"是拍的人夸卖点,不学;只学开头的调侃和她不好意思的情绪。
+可借鉴:钩子 14 反差场合;被闺蜜怼了以后的真情绪(被调侃时可以这样,被夸时我们写大方接住)。注意:原片没有显性 CTA。
+注意:"The neckline is cute""the bow did all that"是拍的人夸卖点,不学;只学开头的调侃和她被怼以后的真情绪。
 
 ---
 来源:旧版口播样本库的服装类样本(原编号保留),分析按本 skill 的钩子族和尺码规则重写。
