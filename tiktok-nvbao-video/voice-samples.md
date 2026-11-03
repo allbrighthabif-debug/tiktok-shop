@@ -102,7 +102,7 @@
 > Nice.
 真人感来源:「Se ven bien caros」→「Pero no lo es」误会反转;「Oye / Ey / bro」即兴感。
 可借鉴:钩子 14 路人搭讪。
-注意:路人一上来夸货的开头偶尔用,同一个窗口最多一次。
+注意:路人一上来夸货的开头要写成真的交流(有触发、夸得具体、情绪一层层变),见 `02-script.md` 第七节。
 
 ### 77 [女装/背心] "腋下有肉的姐妹,你领口选错了" 〔76 词·长样本:只学语气〕
 > If you have big armpit girls, literally if your tank tops are doing that, you literally have the wrong neckline.
