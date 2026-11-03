@@ -39,26 +39,7 @@ tote / tote bag、hobo / hobo bag、slouchy bag、shoulder bag、crossbody / cro
 - 颜色:按第九节
 - 风格词(chic、effortless、elevated)要带上具体对象说("that slouchy shape looks so effortless"),不单独当一句夸
 - 不用:她讲品的台词里,空洞的夸(cute、gorgeous、amazing、stunning、perfect)和抽象词(quality、style、vibe、aesthetic)不单独用,要挂在看得见、摸得着的东西上;查法是"这句能不能拍出来"。拍的人、路人的一声反应可以用真人口语。
-- 不用:叠词(so so、really really、super super);三个形容词排成一串;一口气报一长串场合;中文网络话术直译(家人们、冲、闭眼入);少用 is、has、feels、looks 这类没画面的动词
-
-## 四、动词(有动作感)
-toss、throw、slide、sling、swing over my shoulder、hook on my arm、tuck under my arm、stuff、cram、grab、dig、rummage、pop in、zip、drop、pull out、carry、haul、fit、hold、swallow、ate(It ate my gym bag)
-
-## 五、具体名词(包里装什么,按她的身份和规格卡)
-- 上班:laptop、laptop sleeve、charger、notebook、planner、water bottle、AirPods case、lunch container
-- 上学:iPad、tablet、textbook、notebook、highlighters、Stanley cup
-- 健身:leggings、sports bra、hoodie、gym shoes(装得下才说)、towel、protein bar
-- 日常:phone、wallet、keys、lip gloss、sunglasses、hand cream、makeup bag、umbrella、snacks、receipts
-- 带娃:wipes、snacks、sippy cup、a spare onesie
-- 出行:passport、boarding pass、neck pillow、a change of clothes
-- 品牌名可以当场景说(AirPods、Stanley),不出现在画面里的 logo 上
-
-## 六、材质、五金、做工
-- 材质照页面写:vegan leather、faux leather、PU leather、genuine leather(页面写了才说)、canvas、coated canvas、nylon、polyester、corduroy、suede(页面写了才说)、straw、raffia
-- 表面:pebbled、croc-embossed、quilted、woven、brushed、glossy、patent
-- 五金:gold hardware、gold-tone hardware、silver hardware、brushed metal、magnetic snap、zipper pull
-- 做工:stitching、double stitching、lined、reinforced bottom、structured base、piping
-- 功能词照页面写:water resistant(写了才说;不说 waterproof)、scratch resistant(写了才说)、lightweight(写了重量才说)
+- 不用:叠词(so so、really really、super super);三个形容词排成一串;一口气报一长串场合;中文网络话术直译(家人们、冲、闭眼入);不说 waterproof)、scratch resistant(写了才说)、lightweight(写了重量才说)
 
 ## 七、背法
 carry it by the handle、in the crook of my arm、on my shoulder、under my arm、crossbody(真有斜挎带才说)、as a backpack、adjustable strap、detachable strap、convertible、two ways / three ways to wear it
