@@ -70,8 +70,17 @@
 > 她: And it's water-resistant, way cheaper than it looks. Link's below— go!
 学:人物关系产生因果(两人都背电脑,同学拿自己的丑包比,引出她当场把电脑推进隔层);痛点打头(电脑包都丑);三个卖点各有证明(当场变形、电脑推进去、对方摸);软 CTA 被问出来、硬 CTA 对观众。不学:句子、地点、下雨和顺序。
 
+### B2 [包/蘑菇小双肩包]〔对话体·我们的示范〕室友:"你的包为什么在瞪我" 〔约 55 词 / 24 秒〕
+> 室友: Why is your backpack judging me right now?
+> 她: (laughs) That's just her face. Okay, feel the mushroom, it's literally a plush.
+> 室友: Oh my god.
+> 她: Everyone says it's tiny, but— my wallet, my phone, and these? All in here.
+> 她: Stop squeezing her. Get the brown one, it's cuter on you.
+> 她: Okay, I'm late. Go adopt one— she's linked below!
+学:钩子来自包自己(她背对室友走,包上的平嘴小脸正好朝后"瞪"人);说话量不均(室友只开口两次,有一格只有动作);能装多少是用出来的(出门要戴的墨镜从包里拿出来);几种颜色由买过的她说;把包当活的("her")一路接到结尾"领养一只";CTA 顺着要出门这一刻收,没有新编理由;没有硬塞软 CTA。不学:句子、"领养"这个梗、室友和公寓。
+
 ## 分组速查
-- **对话体**(第三视角先读范例 A1-A3、B1,再看):82 107 108 04;拍的人第一句说当下、调侃她,不夸货;拍的人递卖点、夸货的句子不学。
+- **对话体**(第三视角先读范例 A1-A3、B1-B2,再看):82 107 108 04;拍的人第一句说当下、调侃她,不夸货;拍的人递卖点、夸货的句子不学。
 - **单人口播**:01 06 16 77
 - **西语**:76
 
