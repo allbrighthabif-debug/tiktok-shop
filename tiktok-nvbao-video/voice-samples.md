@@ -5,7 +5,7 @@
 ## 用法
 - **只学怎么说话**:口头禅、语气词、句子有多口语、怎么自然带出卖点、怎么说出真实反应。
 - **学说法,不学拍法**:样本里很多是多次换装、切镜;我们一镜到底还是切镜按内容选(`SKILL.md`)。拍法按本 skill 的步骤文件,样本只借说法和语气。
-- **不学长度**:我们默认 18 秒约 46-49 个英语词(15 秒约 40 个)。标题后标了字数:
+- **不学长度**:我们按爆款语速,每秒约 3.3 词(18 秒约 59 词)。标题后标了字数:
   - 〔N 词〕= 40 词以内,节奏最接近
   - 〔偏长〕= 41-75 词
   - 〔长样本:只学语气〕= 超过 75 词,只借语气和说法
@@ -18,8 +18,60 @@
   - 短样本:`grep -n "〔[0-9]* 词〕" voice-samples.md`
 - 用户说"**存入样本库**"并给出新口播原文:按下面的格式加到末尾,标品类、字数和对话体 / 西语;重复的不收。
 
+## 范例(写对话前先读这一节;只学说法、描述方式和因果,不照句子和顺序)
+看什么:钩子是一件正在发生的事;旁边的人看到什么说什么,卖点词就在反应里;直接夸、情绪满、大白话;讲到哪手到哪;"值"由别人说;软 CTA 被问出来,硬 CTA 最后对观众。
+
+### A1 [女装/斗篷外套]〔对话体·爆款〕夜里街头追上去叫住 〔约 70 词 / 20 秒〕
+> Shooter: Excuse me, ma'am. Ma'am, ma'am.
+> Girl: What?
+> Shooter: I'm sorry to bother you. I just need to know where you got your coat because it is stunning.
+> Girl: Oh my god, girl, TikTok shop.
+> Shooter: Are you serious?
+> Girl: Yes, girl, feel it. It's so soft.
+> Shooter: Oh, it's great quality. Oh my gosh, it feels so soft.
+> Girl: It's affordable. It's so cute. And it's like the most fall winter staple. You need to get it. I'll link it down below for you. Go check it out.
+学:夸完立刻问哪买、立刻答 TikTok Shop(软 CTA 在前几秒);让对方摸,摸到才夸软和质量;结尾一口气推几拳再给链接。不学:追赶、拍肩、赌场夜街这些具体动作和地点。
+
+### A2 [女装/斗篷外套]〔对话体·爆款〕追着跑叫住 〔约 75 词 / 25 秒〕
+> Shooter: Oh my gosh. This girl's coat, man, she's running. Excuse me, ma'am. I'm trying not to...
+> Girl: I'm sorry, I wasn't following you or anything.
+> Shooter: I just wanted to know where you got that coat because it is stunning!
+> Girl: TikTok shop!
+> Shooter: No you didn't!
+> Girl: Yeah, I got it on the TikTok shop.
+> Shooter: Shut up!
+> Girl: Right, it's the cutest thing ever. Look how soft it is, feel!
+> Shooter: Oh my gosh!
+> Girl: It's the softest thing ever and it's so cute. It comes in multiple colors too.
+> Shooter: I need one, I'm gonna tag it.
+> Girl: Oh, I'll link it down below.
+学:反应夸张但有触发(看到才夸、摸到才叫);"多色"顺口带出;拍的人"我也要"推到结尾。不学:原句和顺序。
+
+### A3 [女装/针织套装]〔对话体·西语·爆款〕出门前问男友"像不像家居服" 〔约 85 词 / 26 秒〕
+> Girl: Amor, dime la verdad. ¿Esto se ve demasiado como ropa de casa? Porque a mí me encantó cómo quedó.
+> Shooter: ¿Ropa de casa? Para nada. Y ese hombro descubierto le da otro toque. ¿Así va?
+> Girl: Sí, mira, el cuello cae de ladito, eso fue lo que más me gustó.
+> Shooter: Ah, ya veo. ¿Y los pantalones también vienen con la blusa? Se ven bien anchos.
+> Girl: Sí, vienen juntos. Voy por mi bolsa, mira cómo se mueven cuando camino.
+> Shooter: Ya vi, se ve casual pero bien arreglado. ¿Dónde lo compraste?
+> Girl: En TikTok Shop, te mando el enlace. ¿Traes las llaves? Vámonos que nos esperan.
+(中文:亲爱的说实话,这看着太像家居服吗?我挺喜欢的。/ 一点也不,那个露肩让它不一样。是这样穿的吗?/ 对,你看,领子落在一边,这是我最喜欢的。/ 裤子也是一套的?看着好宽。/ 对,一套的。我去拿包,你看我走路它怎么动。/ 看着休闲但挺精致。哪买的?/ TikTok Shop,链接发你。钥匙带了吗?走吧。)
+学:钩子是她生活里的真担心;描述两个人分着说(他注意到、她解释并动起来证明);讲肩手指着肩,讲裤子走两步;"值"由他总结。不学:结尾"走吧"不是我们的 CTA,我们最后一句要对观众推一把。
+
+### B1 [包/3 合 1 公文包]〔对话体·我们的示范〕下雨屋檐下,公文包变双肩 〔64 词 / 26.5 秒〕
+> 同学: Wait— did your briefcase just turn into a backpack?
+> 她: (laughs) Yes! Because every laptop bag I owned was ugly.
+> 同学: Okay, that is not ugly. Where'd you get it?
+> 她: TikTok Shop.
+> 同学: Mine looks like my dad's work bag.
+> 她: Same laptop as you. Its own padded spot— look.
+> 同学: And it looks so expensive. Vintage professor.
+> 她: Right?
+> 她: And it's water-resistant, way cheaper than it looks. Link's below— go!
+学:人物关系产生因果(两人都背电脑,同学拿自己的丑包比,引出她当场把电脑推进隔层);痛点打头(电脑包都丑);三个卖点各有证明(当场变形、电脑推进去、对方摸);软 CTA 被问出来、硬 CTA 对观众。不学:句子、地点、下雨和顺序。
+
 ## 分组速查
-- **对话体**(第三视角先读):82 107 108 04;拍的人第一句说当下、调侃她,不夸货;拍的人递卖点、夸货的句子不学。
+- **对话体**(第三视角先读范例 A1-A3、B1,再看):82 107 108 04;拍的人第一句说当下、调侃她,不夸货;拍的人递卖点、夸货的句子不学。
 - **单人口播**:01 06 16 77
 - **西语**:76
 
