@@ -1,6 +1,6 @@
 # 说法库:包
 
-第 2 步写台词、第 4 步写发布包时用。写台词前先读 2-3 条 `voice-samples.md`,再从这里挑词。词是给你挑的,不是拼的:一句里放一两个,配 so、super、literally 这类口语加强;同一个窗口里同一个词别反复用。所有说法都要和规格卡对得上(材质、能装什么、背法不编)。
+第 2 步写台词、第 4 步写发布包时用。写台词前先读 2-3 条 `voice-samples.md`,照真人的说法写;这里是参考,写完卡住了再查,不拿来拼句子:一句里放一两个,配 so、super、literally 这类口语加强;同一个窗口里同一个词别反复用。所有说法都要和规格卡对得上(材质、能装什么、背法不编)。
 
 ## 文案用词写法(先读这一节;只学写法,不照抄例句)
 包和鞋是单品:女生买它常常是为了配自己的衣服,所以文案从她的生活和她身上那件衣服说起,卖点夹在中间,最后落在背上身的效果。
@@ -38,7 +38,7 @@ tote / tote bag、hobo / hobo bag、slouchy bag、shoulder bag、crossbody / cro
 - 感觉和气质:rich-looking、expensive-looking、effortless、polished、clean、chic、cozy、classic、timeless、low-key、elevated
 - 颜色:按第九节
 - 风格词(chic、effortless、elevated)要带上具体对象说("that slouchy shape looks so effortless"),不单独当一句夸
-- 不用:她讲品的台词里,空洞的夸(cute、gorgeous、amazing、stunning、perfect)和抽象词(quality、style、vibe、aesthetic)不单独用,要挂在看得见、摸得着的东西上;查法是"这句能不能拍出来"。拍的人、路人的一声反应可以用真人口语。
+- 不用:讲卖点的那句里,空洞的夸(cute、gorgeous、amazing、stunning、perfect)和抽象词(quality、style、vibe、aesthetic)不单独当卖点,要挂在看得见、摸得着的东西上;查法是"这句能不能拍出来"。看到、摸到、用到之后的情绪反应(so cute、obsessed、I know),她和拍的人都可以说。
 - 不用:叠词(so so、really really、super super);三个形容词排成一串;一口气报一长串场合;中文网络话术直译(家人们、冲、闭眼入);不说 waterproof)、scratch resistant(写了才说)、lightweight(写了重量才说)
 
 ## 七、背法
