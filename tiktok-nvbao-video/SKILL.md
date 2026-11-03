@@ -95,6 +95,6 @@ description: 美区 TikTok Shop 女包和女鞋带货短视频(AI UGC):托特、
 - `shoes.md`:鞋和包不一样的地方(卖鞋时每步先读)
 - `palettes.md`:色卡(风格、季节、2026 流行色)和配色规则|`styling.md`:衣服、指甲、首饰、发型妆容、布景和光、音色|`actions.md`:手和包的动作库
 - `words.md`:包的说法库|`hooks.md` `cta.md` `emotion.md` `humor.md`:钩子、促单、情绪、幽默|`voice-samples.md`:口播样本(服装的,只学说话方式)|`iphone17.md`:画面标准
-- `scenes.md`:去哪拍|`scenes/`:场景细节(先看 `scenes/00-index.md`,选定地点后一次只开 1-2 个)|`occasions.md`:场合和身份|`trends-fw2026.md`:当季衣服和包的流行
+- `scenes.md`:完整地点索引(第 1 步推荐地点时一起选)|`scenes/`:场景细节(先看 `scenes/00-index.md`,选定地点后一次只开 1-2 个)|`occasions.md`:场合和身份|`trends-fw2026.md`:当季衣服和包的流行
 - `violation-check.md`:违规排查和申诉
 - `cases/`:案例库(先看 `cases/00-index.md`,按互动方式、购买欲怎样形成、展示证据、拍摄关系找,只打开相关的 1-2 个;案例是参考,不是模板)
