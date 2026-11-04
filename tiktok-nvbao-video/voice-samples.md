@@ -5,7 +5,7 @@
 ## 用法
 - **只学怎么说话**:口头禅、语气词、句子有多口语、怎么自然带出卖点、怎么说出真实反应。
 - **学说法,不学拍法**:样本里很多是多次换装、切镜;我们一镜到底还是切镜按内容选(`SKILL.md`)。拍法按本 skill 的步骤文件,样本只借说法和语气。
-- **不学长度**:我们按爆款语速,每秒约 3.3 词(18 秒约 59 词)。标题后标了字数:
+- **不学长度**:我们每秒约 3.5 词(18 秒约 63 词)。标题后标了字数:
   - 〔N 词〕= 40 词以内,节奏最接近
   - 〔偏长〕= 41-75 词
   - 〔长样本:只学语气〕= 超过 75 词,只借语气和说法
@@ -18,7 +18,7 @@
   - 短样本:`grep -n "〔[0-9]* 词〕" voice-samples.md`
 - 用户说"**存入样本库**"并给出新口播原文:按下面的格式加到末尾,标品类、字数和对话体 / 西语;重复的不收。
 
-## 范例(写对话前先读这一节;只学说法、描述方式和因果,不照句子和顺序)
+## 范例(写对话前先读这一节;这几条风格各不相同,用来听真人怎么说话。不选其中一条照着写,不照它的情节、结构、句子;情侣出门前问一句的这种,只是很多种开头里的一种)
 看什么:钩子是一件正在发生的事;旁边的人看到什么说什么,卖点词就在反应里;直接夸、大白话;讲到哪手到哪;"值"由别人说;软 CTA 被问出来,硬 CTA 最后对观众。
 
 ### A1 [女装/斗篷外套]〔对话体·爆款〕夜里街头追上去叫住 〔约 70 词 / 20 秒〕
@@ -71,24 +71,24 @@
 学写法:问的是真好奇、观众也想问的;回答先短短一句,再"你看"、手上同时做、接一句完整的话;口袋这个卖点是"小票呢"这件生活小事带出来的,一句没说"有口袋";用词很平常,没有金句。不学:句子、情节、问答这个形式本身(不是每条都要问答);结尾"去拿咖啡"是生活收尾,我们后面还要对观众说 CTA。
 
 ### B1 [包/3 合 1 公文包]〔对话体·我们的示范〕下雨屋檐下,公文包变双肩 〔64 词 / 26.5 秒〕
-> 同学: Wait— did your briefcase just turn into a backpack?
+> 同学: Wait, did your briefcase just turn into a backpack?
 > 她: (laughs) Yes! Because every laptop bag I owned was ugly.
 > 同学: Okay, that is not ugly. Where'd you get it?
 > 她: TikTok Shop.
 > 同学: Mine looks like my dad's work bag.
-> 她: Same laptop as you. Its own padded spot— look.
+> 她: Same laptop as you. Its own padded spot, look.
 > 同学: And it looks so expensive. Vintage professor.
 > 她: Right?
-> 她: And it's water-resistant, way cheaper than it looks. Link's below— go!
+> 她: And it's water-resistant, way cheaper than it looks. Link's below, go!
 学:人物关系产生因果(两人都背电脑,同学拿自己的丑包比,引出她当场把电脑推进隔层);痛点打头(电脑包都丑);三个卖点各有证明(当场变形、电脑推进去、对方摸);软 CTA 被问出来、硬 CTA 对观众。不学:句子、地点、下雨和顺序。
 
 ### B2 [包/蘑菇小双肩包]〔对话体·我们的示范〕室友:"你的包为什么在瞪我" 〔约 55 词 / 24 秒〕
 > 室友: Why is your backpack judging me right now?
 > 她: (laughs) That's just her face. Okay, feel the mushroom, it's literally a plush.
 > 室友: Oh my god.
-> 她: Everyone says it's tiny, but— my wallet, my phone, and these? All in here.
+> 她: Everyone says it's tiny, but my wallet, my phone, and these? All in here.
 > 她: Stop squeezing her. Get the brown one, it's cuter on you.
-> 她: Okay, I'm late. Go adopt one— she's linked below!
+> 她: Okay, I'm late. Go adopt one, she's linked below!
 学:钩子来自包自己(她背对室友走,包上的平嘴小脸正好朝后"瞪"人);说话量不均(室友只开口两次,有一格只有动作);能装多少是用出来的(出门要戴的墨镜从包里拿出来);几种颜色由买过的她说;把包当活的("her")一路接到结尾"领养一只";CTA 顺着要出门这一刻收,没有新编理由;没有硬塞软 CTA。不学:句子、"领养"这个梗、室友和公寓。
 
 ## 分组速查

@@ -9,16 +9,26 @@
 3. **卖点用因果链串**:结构 → so → 感受;连接词 so、and、plus、that's why、the best part,听起来是顺着想、顺着说,不是列清单。
 4. **感受打个比方**:软、厚、轻这类抽象的词,换成摸得到的东西。"thick, like a broken-in denim jacket"、"it's like butter"。
 5. **用买家自己的行话去否定她们怕的事**:每说一个"不会",打消一个顾虑。"not floppy at all"、"doesn't look like a grocery tote"、"zero shoulder dig"。
-6. **用 Look— / Watch— / See? 把每句钉在动作上**:说一个卖点,让观众看一个证明。
+6. **用 Look, / Watch, / See? 把每句钉在动作上**:说一个卖点,让观众看一个证明。
 7. **时间证言**:"I've carried it every day for a month."(使用证言要有评论或详情页依据)
 8. **一个不体面但真实的小细节**:有点糗的瞬间最像真人。"no more digging for my keys while the barista's waiting"。
-9. **上身效果:先比例,再具体画面,最后才是气质词**:"It sits right on my hip, the coat hangs straight — it looks so effortless." 气质词单独说是空的,前面有画面垫着才立得住。
+9. **上身效果:先比例,再具体画面,最后才是气质词**:"It sits right on my hip, the coat hangs straight, it looks so effortless." 气质词单独说是空的,前面有画面垫着才立得住。
 10. **程度词口语化**:so、literally、like、honestly,一条两三个就够,同一个词不重复。
 **真人说话的样子**:先接情绪再说事;有一句说一半;可以有自嘲或互损;卖点顺嘴带出,不报参数;避免机械对称、刻意排比和广告腔("X for this, Y for that"、"Empty, it flops. Laptop in, it stands." 这种工整的对照);符合人物语气的自然重复、呼应、对比可以有,不规定次数。
-**说小缺点**(评论或规格卡有依据才说,不碰核心卖点,马上接还是值得):"Honestly, the only thing is…"、"Not gonna lie, the hardware's a little light — but for everyday? Perfectly fine."、"Watch the zipper teeth, but it's sturdy. I'd buy another."
+**说小缺点**(评论或规格卡有依据才说,不碰核心卖点,马上接还是值得):"Honestly, the only thing is…"、"Not gonna lie, the hardware's a little light, but for everyday? Perfectly fine."、"Watch the zipper teeth, but it's sturdy. I'd buy another."
 **回购和时间证言**(要有评论依据):"Top 3 reasons I'd buy this again"、"I've carried it every day for a month."
 **说"值"不说价**:has some weight to it、looks way more expensive than it is、this is my everyday bag;不说划算、性价比、deal。
 **美国人的说法,不是翻译腔**:不说 very convenient、it's very practical、the feeling is super soft;说 so easy、it just works、it's like butter。中文对话只当翻译看,不拿它写英文。
+
+## 零、质感和气质怎么说(讲包质感那一句,写之前先看这一节;只学怎么形容,不照抄整句)
+用法:画面里先有那个样子(塌、垂、光泽、纹理),再从对应那组挑一个说法,接一句"配她身上这件衣服什么感觉";一句最多一个,不堆形容词。标"评论"的是美国买家原话,标"媒体"的是时尚媒体书面语,要改成口语再用。来源:2026-11 网络调研(Zappos、Walmart、Amazon 评论,The Zoe Report、WWD、Who What Wear、Brahmin、Bustle、Planoly);以后拆到美区真人口播原话再补、替换。
+- 软、手感:buttery soft(评论)、so soft and very well made(评论)、feels like real leather(评论,只用于页面写了 PU/vegan leather 的,不说是真皮)
+- 软到会塌、垂:won't stand up on its own(评论,差评里的说法,反过来说成"它就是会软软塌下来");little to no natural shape, but that's the charm(媒体;口语:It has, like, no shape, and that's kind of the point.)
+- 显贵:right on trend and looks expensive(评论);feels expensive in the most effortless way(媒体;口语:It just looks expensive without trying.)
+- 气质:polished but easy(媒体;口语:Relaxed, but still kind of put together.);it's giving [某种感觉](TikTok 说法,一条最多一次)
+- 质感温度:warm, tactile, just the right amount of cozy(媒体,麂皮;口语:It's so cozy-looking.)
+- 多场合:from office to evening to weekend(媒体;口语:I wear it to work and then just keep it on for dinner.)
+- 爱到不想放下:I could live in this purse(评论)
 
 ## 一、怎么让人想得出画面
 整段要有画面,不逐句硬凑,从下面挑着用:
@@ -65,9 +75,9 @@ carry it by the handle、in the crook of my arm、on my shoulder、under my arm�
 - 痛点只说她自己、说以前那只包或"别的大包",不点名别家
 
 ## 十一、背上效果句(结果前置:先说背上、用起来什么样,再说是哪个设计做到的)
-- 好看:"It makes my whole outfit look put together." / "This bag does all the work for my outfit." / "Plain sweater, jeans, this bag—done."
+- 好看:"It makes my whole outfit look put together." / "This bag does all the work for my outfit." / "Plain sweater, jeans, this bag, done."
 - 看着贵:"My sister asked what brand it is." / "It looks way more expensive than it is."(不报价格)
-- 能装:"My whole day fits in here, and it still zips flat." / "Laptop, gym clothes, snacks—one bag."
+- 能装:"My whole day fits in here, and it still zips flat." / "Laptop, gym clothes, snacks, one bag."
 - 软和比例:"It slouches in the best way." / "It hugs my side instead of sticking out."
 - 一包多背:"I wear it on my shoulder to work and crossbody on weekends."(真有才说)
 - 句子只学结构,按这只包和这个人重新说

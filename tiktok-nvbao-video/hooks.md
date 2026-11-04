@@ -75,7 +75,7 @@
 先戳这类包最常见的坑。
 - [女] `Every big tote turns into a black hole. Not this one.` — 每个大托特都是黑洞,这个不是(→ 口袋)
 - [女] `I refuse to carry two bags today.` — 今天我拒绝拎两个包
-- [女] `If your bag bulges the second you add a water bottle—` — 你的包一放水杯就鼓的话——
+- [女] `If your bag bulges the second you add a water bottle...` — 你的包一放水杯就鼓的话——
 - [拍] `Doesn't that strap dig in?` — 那肩带不勒吗?(有依据才用)
 - [女] ES `¿Nomás a mí se me pierde todo en la bolsa?` — 就我一个人东西总在包里找不到吗?
 
@@ -95,7 +95,7 @@
 
 ## 5 避坑(适合单人)
 - [女] `Don't buy a work bag until you check this.` — 买通勤包之前先看这个
-- [女] `If your keys always sink to the bottom—` — 你的钥匙总沉到包底的话——
+- [女] `If your keys always sink to the bottom...` — 你的钥匙总沉到包底的话——
 - [女] ES `No compres bolsa sin ver esto.` — 买包之前先看这个
 
 ## 6 看着贵(适合单人)
@@ -106,9 +106,9 @@
 
 ## 7 人群点名(适合单人)
 点名之后必须带一个痛点、悬念或反差,单独点名不算钩子。
-- [女] `If you carry your laptop and your gym clothes every day—` — 每天都要带电脑和健身衣服的——
+- [女] `If you carry your laptop and your gym clothes every day...` — 每天都要带电脑和健身衣服的——
 - [女] `Big bag girls, this one's for you.` — 大包女孩,这只是给你们的
-- [女] `Moms who need a bag that doesn't look like a diaper bag—` — 想要一个不像妈咪包的包的妈妈们——
+- [女] `Moms who need a bag that doesn't look like a diaper bag...` — 想要一个不像妈咪包的包的妈妈们——
 - [女] ES `Las que cargan con todo, esta es para ustedes.` — 什么都要带的姐妹,这只是给你们的
 
 ## 8 真心推荐(适合单人)
@@ -135,7 +135,7 @@
 
 ## 12 互动提问(适合单人)
 问题从第 1 步的痛点或用户给的评论里取,不编;不做屏幕挂评论、回复评论的视频。
-- [女] `Be honest—work bag or weekend bag?` — 说实话,这是通勤包还是周末包?
+- [女] `Be honest, work bag or weekend bag?` — 说实话,这是通勤包还是周末包?
 - [拍] `Rate it. One to ten.` — 打个分,一到十
 
 ## 13 借势(适合单人)
