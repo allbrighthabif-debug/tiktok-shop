@@ -19,7 +19,7 @@
 - 用户说"**存入样本库**"并给出新口播原文:按下面的格式加到末尾,标品类、字数和对话体 / 西语;重复的不收。
 
 ## 范例(写对话前先读这一节;只学说法、描述方式和因果,不照句子和顺序)
-看什么:钩子是一件正在发生的事;旁边的人看到什么说什么,卖点词就在反应里;直接夸、情绪满、大白话;讲到哪手到哪;"值"由别人说;软 CTA 被问出来,硬 CTA 最后对观众。
+看什么:钩子是一件正在发生的事;旁边的人看到什么说什么,卖点词就在反应里;直接夸、大白话;讲到哪手到哪;"值"由别人说;软 CTA 被问出来,硬 CTA 最后对观众。
 
 ### A1 [女装/斗篷外套]〔对话体·爆款〕夜里街头追上去叫住 〔约 70 词 / 20 秒〕
 > Shooter: Excuse me, ma'am. Ma'am, ma'am.
@@ -45,7 +45,7 @@
 > Girl: It's the softest thing ever and it's so cute. It comes in multiple colors too.
 > Shooter: I need one, I'm gonna tag it.
 > Girl: Oh, I'll link it down below.
-学:反应夸张但有触发(看到才夸、摸到才叫);"多色"顺口带出;拍的人"我也要"推到结尾。不学:原句和顺序。
+学:反应有触发(看到才夸、摸到才夸);爆款的嗓门和连串惊叹偏夸张,我们降一档,开心就是笑出来、语气轻快;"多色"顺口带出;拍的人"我也要"推到结尾。不学:原句和顺序。
 
 ### A3 [女装/针织套装]〔对话体·西语·爆款〕出门前问男友"像不像家居服" 〔约 85 词 / 26 秒〕
 > Girl: Amor, dime la verdad. ¿Esto se ve demasiado como ropa de casa? Porque a mí me encantó cómo quedó.
