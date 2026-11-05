@@ -35,10 +35,18 @@
 pebbled grain(荔枝纹)、fine grain(细纹理)、glazed / glossy finish(亮面)、matte(哑光)、antiqued hardware(做旧五金)、gold hardware(金色五金)、edge paint(油边)、stitching(车线)、quilting(绗缝)、structured(挺括)、slouchy(软塌)、silhouette(廓形)、subtle sheen(淡淡的光泽)、chain strap(链条肩带)、top handle(顶部提手)、magnetic snap(磁扣)。说成口语:"See how shiny the finish is?" 不说 "It features a glazed finish."
 
 **2. 她的感受和反应**(对方看到、她摸到、她被夸时;一条一两个)
-gorgeous、stunning、chic、classy、it's a vibe、I'm obsessed、this is so me、my favorite part is…、the thing I love is…、I didn't expect…、every time I…;连接词 honestly、but、and、plus、so 让话连起来。
+gorgeous、stunning、chic、classy、elegant、this is everything、it's a vibe、I'm obsessed、this is so me、my favorite part is…、the thing I love is…、I didn't expect…、every time I…;连接词 honestly、but、and、plus、so 让话连起来。
 
 **3. 对整身的效果**(说成她当下的话)
-simple but not basic;great from far away, even better up close;casual chic;makes me look put-together;makes my basics look like I tried;pop of color;wakes the whole outfit up;brightens up a gray coat;ties the whole look together。
+simple but not basic;great from far away, even better up close;casual chic;makes me look put-together;makes my basics look like I tried;pop of color;wakes the whole outfit up;brightens up a gray coat;ties the whole look together;crossbody it's casual and chic;carrying it by hand looks so elegant;under the arm it feels kind of retro;the chain makes it look more put-together;the size makes me look petite;a bag I'll actually use every day;perfect for me or as a gift。
+
+**4. 通用包包说法**(按卖点;看得见才说,说成她当下的话,不照念)
+- 外观、廓形:structured, it keeps its shape;clean lines;niche, you won't see it everywhere;great silhouette from far away, cute details up close;classic shape
+- 材质、做工:fine grain with a subtle sheen;pebbled grain;the stitching is so even;the edges are so clean;buttery soft(评论或页面说软才用)
+- 五金:antiqued hardware, it gives it a vintage vibe;the gold has a nice metallic sheen;the zipper's so smooth(演一下)
+- 背法的效果:crossbody it's casual and chic;carrying it by hand looks so elegant;under the arm it feels kind of retro;it sits close to my body, no bouncing around
+- 场合:works for both casual and dressy;great for my commute;perfect for a day out
+- 功能(商品页或评论有依据才说):adjustable strap;wide strap, comfy on my shoulder;lightweight;fits my daily essentials(要演出来)
 
 **不用**:high-end、timeless、great craftsmanship、premium quality、next level、game-changer、the value is unmatched、best materials、one of a kind、those who know know(暗示大牌)、This print is a classic brand element(暗示大牌)、Imagine wearing this to…(主播腔)。
 

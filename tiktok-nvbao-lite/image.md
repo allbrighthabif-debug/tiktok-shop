@@ -6,7 +6,8 @@
 - **白底重绘锚点图**(第三节):商家图全是模特图、背景乱到看不清包,挑不出一张能用的;或者生成过一次包画错了(比如亮面被画成塑料)。重绘时光线均匀、没有大块反光。
 - **只拍手和包的场景图**(第二节):机位要求很死(车里副驾)或者文字生成出来不满意时才出。出的话这张图就是视频的第一帧和配色基准,配色、光、质感、时刻四样都要到位。
 - **建号时做一次**(第四节):人脸四视图,以后每条复用。
-- **真人出镜每条做一张无头穿搭图**(第四节之二):锁住身材和这条的衣服;身材曲线图不再用。
+- **身材曲线图**:建号时做一次、每条复用,只在 ChatGPT 出无头穿搭图时传,不传进即梦。
+- **真人出镜每条做一张无头穿搭图**(第四节之二):锁住身材和这条的衣服。
 - 真人出镜不出场景图、同框图;身材、衣服、背法、场景、配色第 4 步全写成文字(第一节照样内部定好)。
 
 ## 一、先定配色和布景(内部定,交付写一句)
@@ -88,9 +89,10 @@ Avoid: any text, watermark, different hair or makeup between panels, a back view
 ```
 
 ## 四之二、无头穿搭图(真人出镜每条做一张)
-用 ChatGPT 出:她穿着这条视频的整套衣服,从脖子以下到脚,不露脸,纯色浅灰背景,不拿包,站姿自然、四分之三侧身,身形看得清;图上不放字。即梦里写"只用于她的身材比例和这条的衣服;脸按人脸图,不用它的背景"。
+用 ChatGPT 出,只传一张身材曲线图(Image 1,只用身材),衣服用文字写:用户发了 Pinterest 穿搭截图,就照截图写每件的颜色、料子、款式、怎么穿(截图不传,图里的包和 logo 不写;季节不对补上冬天外套);没有截图就按 `style.md` 现搭。她穿着这条视频的整套衣服,从脖子以下到脚,不露脸,纯色浅灰背景,不拿包,站姿自然、四分之三侧身,身形看得清;图上不放字。即梦里写"只用于她的身材比例和这条的衣服;脸按人脸图,不用它的背景"。
 ```
-Make a full-body outfit reference photo of a woman, cropped from the neck down to the feet (no face, no mouth visible), standing in a relaxed three-quarter pose, plain light grey background, soft even light, photorealistic, no text.
+Use Image 1 only for her body shape and proportions; ignore its clothing and background.
+Make a full-body outfit reference photo of the same woman, cropped from the neck down to the feet (no face, no mouth visible), standing in a relaxed three-quarter pose, plain light grey background, soft even light, photorealistic, no text.
 Body: about [height], [weight], [shape: very defined small waist, rounded hips, long legs — from the character card]. Feminine, not muscular.
 Outfit: [每件写颜色 + 材质 + 款式 + 怎么穿,照这条的穿搭;领口开到锁骨下方一掌以内].
 Shoes: [颜色 + 款式]. No bag, no accessories in her hands.
@@ -98,7 +100,7 @@ Avoid: any text, a visible face, a bag, extra people, deep cleavage.
 ```
 出图后哪一处不对,只改那一处(`Change only: …`)。
 
-**身材曲线图模板(旧,已不用;身材跑偏、又不想做穿搭图时才用)**
+**身材曲线图模板(建号时做一次;只在 ChatGPT 出无头穿搭图时传)**
 ```
 Make a body reference sheet: four tall vertical panels in one row, wide landscape image (3:2), thin white gaps between panels: front view, 45° view, side view, back view.
 Same crop in every panel: from just below the chin down to the feet — her mouth and lips are not visible — and both feet fully visible. Same scale in every panel. It is clearly the same body in all four panels.
