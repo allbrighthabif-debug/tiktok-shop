@@ -97,10 +97,10 @@ Image 1 is a body reference: use it only for her body shape and proportions, ign
 Make an on-body outfit photo sheet of the same woman: two equal tall panels side by side, left panel front view, right panel back view, pure white background, soft even studio-like light, photorealistic, no text.
 Both panels are cropped from just below the chin down to the feet (no face, no mouth visible), same body, same scale, standing straight and relaxed with arms down at her sides.
 Body: about [height], [weight], [shape: very defined small waist, rounded hips, long legs — from the character card]. Feminine, not muscular.
-Outfit: [每件写颜色 + 材质 + 款式 + 怎么穿;领口开到锁骨下方一掌以内].
+Outfit: [每件写颜色 + 材质 + 款式 + 怎么穿;领口可以开低,露一点乳沟,不露内衣].
 Shoes: [颜色 + 款式].
 No bag, nothing in her hands.
-Avoid: any text, a visible face, a bag, extra people, deep cleavage.
+Avoid: any text, a visible face, a bag, extra people, visible underwear.
 ```
 出图后哪一处不对,只改那一处(`Change only: …`)。
 
