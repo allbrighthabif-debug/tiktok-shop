@@ -88,11 +88,11 @@ Style: photorealistic, natural skin texture, sharp focus on the face.
 Avoid: any text, watermark, different hair or makeup between panels, a back view, cropped chin[, the hair color she should not have].
 ```
 
-## 四之二、无头穿搭图(真人出镜每条做一张)
-用 ChatGPT 出,只传一张身材曲线图(Image 1,只用身材),衣服用文字写:用户发了 Pinterest 穿搭截图,就照截图写每件的颜色、料子、款式、怎么穿(截图不传,图里的包和 logo 不写;季节不对补上冬天外套);没有截图就按 `style.md` 现搭。她穿着这条视频的整套衣服,从脖子以下到脚,不露脸,纯色浅灰背景,不拿包,站姿自然、四分之三侧身,身形看得清;图上不放字。即梦里写"只用于她的身材比例和这条的衣服;脸按人脸图,不用它的背景"。
+## 四之二、无头穿搭图(真人出镜每条做一张,正面和背面两格,像服装那种)
+用 ChatGPT 出,只传一张身材曲线图(Image 1,只用身材),衣服用文字写:用户发了 Pinterest 穿搭截图,就照截图写每件的颜色、料子、款式、怎么穿(截图不传,图里的包和 logo 不写;季节不对补上冬天外套);没有截图就按 `style.md` 现搭。她穿着这条视频的整套衣服,左右两格:左边正面、右边背面,两格都从脖子以下到脚,不露脸,同一个身体、同样大小;纯色浅灰背景,不拿包,站姿自然,身形看得清;图上不放字。即梦里写"只用于她的身材比例和这条的衣服;脸按人脸图,不用它的背景"。
 ```
 Use Image 1 only for her body shape and proportions; ignore its clothing and background.
-Make a full-body outfit reference photo of the same woman, cropped from the neck down to the feet (no face, no mouth visible), standing in a relaxed three-quarter pose, plain light grey background, soft even light, photorealistic, no text.
+Make an outfit reference sheet of the same woman: two equal tall panels side by side with a thin white gap, left panel front view, right panel back view. Both panels cropped from the neck down to the feet (no face, no mouth visible), same body, same scale, standing relaxed. Plain light grey background, soft even light, photorealistic, no text.
 Body: about [height], [weight], [shape: very defined small waist, rounded hips, long legs — from the character card]. Feminine, not muscular.
 Outfit: [每件写颜色 + 材质 + 款式 + 怎么穿,照这条的穿搭;领口开到锁骨下方一掌以内].
 Shoes: [颜色 + 款式]. No bag, no accessories in her hands.
