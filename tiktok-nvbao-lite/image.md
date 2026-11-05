@@ -89,13 +89,15 @@ Avoid: any text, watermark, different hair or makeup between panels, a back view
 ```
 
 ## 四之二、无头上身图(真人出镜每条做一张:正面和背面两格,穿着这条的衣服,不背包)
-样子照商品上身图那种:白色背景,左边正面、右边背面,两格都从下巴下面截到脚,不露脸;她穿着这条视频的整套衣服,双手自然垂在身侧,不拿包;光均匀、柔和,像电商上身图。
+样子照商品上身图那种:整张竖图 3:4,白色背景,左边正面、右边背面,两格贴着、不留空隙不画分割线;每格人撑满,上面截在嘴唇下方,下面鞋底贴近底边,不露脸;相机在腰的高度平视,不俯拍、不广角,腿的比例才对;她穿着这条视频的整套衣服,双手自然垂在身侧,不拿包;光均匀、柔和,像电商上身图。
 用 ChatGPT 出,只传一张身材曲线图(Image 1,只用身材)。衣服用文字写:用户发了 Pinterest 穿搭截图,就照截图写每件的颜色、料子、款式、怎么穿(截图不传,图里的包和 logo 不写;季节不对补上冬天外套);没有截图就按 `style.md` 现搭。
 即梦里写:"@图片N 只用于她的身材比例和这条的衣服;脸按人脸图,不用它的白色背景"。
 ```
 Image 1 is a body reference: use it only for her body shape and proportions, ignore its clothing and background.
-Make an on-body outfit photo sheet of the same woman: two equal tall panels side by side, left panel front view, right panel back view, pure white background, soft even studio-like light, photorealistic, no text.
-Both panels are cropped from just below the chin down to the feet (no face, no mouth visible), same body, same scale, standing straight and relaxed with arms down at her sides.
+Make an on-body outfit photo sheet of the same woman. Portrait canvas 3:4. Two equal panels side by side touching each other, no gap, no divider line: left panel front view, right panel back view. Pure white background, soft even studio-like light, photorealistic, no text.
+In each panel her body fills the full height: cropped just below the lips at the top (no face visible), shoes almost touching the bottom edge, very little white space on the sides; same body, same scale, standing straight and relaxed with arms down at her sides.
+Camera at her waist height, straight on, about 50mm lens, no high angle, no wide-angle distortion, so her legs keep their real length.
+Keep the body proportions of Image 1 exactly; if the outer layer is open, her waistline is still visible.
 Body: about [height], [weight], [shape: very defined small waist, rounded hips, long legs — from the character card]. Feminine, not muscular.
 Outfit: [每件写颜色 + 材质 + 款式 + 怎么穿;领口可以开低,露一点乳沟,不露内衣].
 Shoes: [颜色 + 款式].
