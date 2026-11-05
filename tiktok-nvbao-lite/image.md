@@ -7,7 +7,7 @@
 - **只拍手和包的场景图**(第二节):机位要求很死(车里副驾)或者文字生成出来不满意时才出。出的话这张图就是视频的第一帧和配色基准,配色、光、质感、时刻四样都要到位。
 - **建号时做一次**(第四节):人脸四视图,以后每条复用。
 - **身材曲线图**:建号时做一次、每条复用,只在 ChatGPT 出无头上身图时传,不传进即梦。
-- **真人出镜每条做一张无头上身图**(第四节之二):正反两面、白底、穿着这条的衣服、背着我们的包,锁住身材、衣服和包在身上的位置大小。
+- **真人出镜每条做一张无头上身图**(第四节之二):正反两面、白底、穿着这条的衣服、不背包,锁住身材和衣服。
 - 真人出镜不出场景图、同框图;身材、衣服、背法、场景、配色第 4 步全写成文字(第一节照样内部定好)。
 
 ## 一、先定配色和布景(内部定,交付写一句)
@@ -88,21 +88,19 @@ Style: photorealistic, natural skin texture, sharp focus on the face.
 Avoid: any text, watermark, different hair or makeup between panels, a back view, cropped chin[, the hair color she should not have].
 ```
 
-## 四之二、无头上身图(真人出镜每条做一张:正面和背面两格,穿着这条的衣服、背着我们的包)
-样子照商品上身图那种:白色背景,左边正面、右边背面,两格都从下巴下面截到脚,不露脸;她穿着这条视频的整套衣服,包按这条要演的背法背在身上(斜挎、单肩、手拎),双手自然垂在身侧;光均匀、柔和,像电商上身图。
-用 ChatGPT 出,传两张图:Image 1 身材曲线图(只用身材),Image 2 包的锚点图(只用包的样子)。衣服用文字写:用户发了 Pinterest 穿搭截图,就照截图写每件的颜色、料子、款式、怎么穿(截图不传,图里的包和 logo 不写;季节不对补上冬天外套);没有截图就按 `style.md` 现搭。
-出图后先对包:颜色、形状、五金、带子几条、字样和锚点图一样才用;不一样就 `Change only` 改包,或者重出。
-即梦里写:"@图片N 只用于她的身材比例、这条的衣服、包背在身上的位置和大小;包的样子按包的参考图,脸按人脸图,不用它的白色背景"。
+## 四之二、无头上身图(真人出镜每条做一张:正面和背面两格,穿着这条的衣服,不背包)
+样子照商品上身图那种:白色背景,左边正面、右边背面,两格都从下巴下面截到脚,不露脸;她穿着这条视频的整套衣服,双手自然垂在身侧,不拿包;光均匀、柔和,像电商上身图。
+用 ChatGPT 出,只传一张身材曲线图(Image 1,只用身材)。衣服用文字写:用户发了 Pinterest 穿搭截图,就照截图写每件的颜色、料子、款式、怎么穿(截图不传,图里的包和 logo 不写;季节不对补上冬天外套);没有截图就按 `style.md` 现搭。
+即梦里写:"@图片N 只用于她的身材比例和这条的衣服;脸按人脸图,不用它的白色背景"。
 ```
 Image 1 is a body reference: use it only for her body shape and proportions, ignore its clothing and background.
-Image 2 is the bag: use it only for the bag, and keep the bag exactly the same (shape, color, material, hardware, number of straps, any lettering).
-Make an on-body product photo sheet of the same woman: two equal tall panels side by side, left panel front view, right panel back view, pure white background, soft even studio-like light, photorealistic, no text.
+Make an on-body outfit photo sheet of the same woman: two equal tall panels side by side, left panel front view, right panel back view, pure white background, soft even studio-like light, photorealistic, no text.
 Both panels are cropped from just below the chin down to the feet (no face, no mouth visible), same body, same scale, standing straight and relaxed with arms down at her sides.
 Body: about [height], [weight], [shape: very defined small waist, rounded hips, long legs — from the character card]. Feminine, not muscular.
 Outfit: [每件写颜色 + 材质 + 款式 + 怎么穿;领口开到锁骨下方一掌以内].
 Shoes: [颜色 + 款式].
-The bag from Image 2 is worn [crossbody across her chest / on her right shoulder / in her right hand], the strap [从哪边肩膀斜到哪边、落在哪里], the bag sits at [胯边 / 腰侧 / 胸前]; in the back view the strap and the bag are seen from behind in the same position.
-Avoid: any text, a visible face, extra bags, extra people, deep cleavage, changing the bag.
+No bag, nothing in her hands.
+Avoid: any text, a visible face, a bag, extra people, deep cleavage.
 ```
 出图后哪一处不对,只改那一处(`Change only: …`)。
 
