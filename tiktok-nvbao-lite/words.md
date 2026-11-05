@@ -1,0 +1,110 @@
+# 说法库:包
+
+第 2 步写台词、第 4 步写发布包时用。写台词前先读 2-3 条 `voice-samples.md`,照真人的说法写;这里是参考,写完卡住了再查,不拿来拼句子:一句里放一两个,配 so、super、literally 这类口语加强;同一个窗口里同一个词别反复用。所有说法都要和规格卡对得上(材质、能装什么、背法不编)。
+
+## 文案用词写法(先读这一节;只学写法,不照抄例句)
+包和鞋是单品:女生买它常常是为了配自己的衣服,所以文案从她的生活和她身上那件衣服说起,卖点夹在中间,最后落在背上身的效果。
+1. **开头说"我为什么买"**,不说"这是什么":第一人称 + 她自己的东西 + 买的理由。"I bought this just for my grey coat."
+2. **先给自己贴个自嘲标签,再引出卖点**:"I'm the laziest person alive, so it had to be crossbody."
+3. **卖点用因果链串**:结构 → so → 感受;连接词 so、and、plus、that's why、the best part,听起来是顺着想、顺着说,不是列清单。
+4. **感受打个比方**:软、厚、轻这类抽象的词,换成摸得到的东西。"thick, like a broken-in denim jacket"、"it's like butter"。
+5. **用买家自己的行话去否定她们怕的事**:每说一个"不会",打消一个顾虑。"not floppy at all"、"doesn't look like a grocery tote"、"zero shoulder dig"。
+6. **用 Look, / Watch, / See? 把每句钉在动作上**:说一个卖点,让观众看一个证明。
+7. **时间证言**:"I've carried it every day for a month."(使用证言要有评论或详情页依据)
+8. **一个不体面但真实的小细节**:有点糗的瞬间最像真人。"no more digging for my keys while the barista's waiting"。
+9. **上身效果:先比例,再具体画面,最后才是气质词**:"It sits right on my hip, the coat hangs straight, it looks so effortless." 气质词单独说是空的,前面有画面垫着才立得住。
+10. **程度词口语化**:so、literally、like、honestly,一条两三个就够,同一个词不重复。
+**真人说话的样子**:先接情绪再说事;有一句说一半;可以有自嘲或互损;卖点顺嘴带出,不报参数;避免机械对称、刻意排比和广告腔("X for this, Y for that"、"Empty, it flops. Laptop in, it stands." 这种工整的对照);符合人物语气的自然重复、呼应、对比可以有,不规定次数。
+**说小缺点**(评论或规格卡有依据才说,不碰核心卖点,马上接还是值得):"Honestly, the only thing is…"、"Not gonna lie, the hardware's a little light, but for everyday? Perfectly fine."、"Watch the zipper teeth, but it's sturdy. I'd buy another."
+**回购和时间证言**(要有评论依据):"Top 3 reasons I'd buy this again"、"I've carried it every day for a month."
+**说"值"不说价**:has some weight to it、looks way more expensive than it is、this is my everyday bag;不说划算、性价比、deal。
+**美国人的说法,不是翻译腔**:不说 very convenient、it's very practical、the feeling is super soft;说 so easy、it just works、it's like butter。中文对话只当翻译看,不拿它写英文。
+
+## 零之一、讲得干和讲得不干(塑品先看这一节;学思路,不照抄句子,一句最多用一个说法)
+**干**:一句结论,像小白主播:"It's quilted." "It goes with everything." "很舒服""很百搭""质量好"。
+**不干**:同一个卖点,带上这几样里的两三样:
+- 她的态度:"Honestly, I'm pretty simple about bags. I just want one I don't have to think about."
+- 看得见、摸得着的细节:每一小格都鼓起来、车线又直又密、亮片一颗颗的
+- 身体的感受:背一天肩膀不累、手一碰就开(页面或评论有依据才说功能)
+- 搭配出来的不同样子:"With jeans it's easy, with a dress it's sweet, with my long coat it looks kind of grown-up."
+- 一个生活瞬间:早上着急出门随手拿起它就走、在酒吧门口两秒掏出证件
+- 替她挑:适合谁、不适合谁("If you need a laptop, this isn't it. Phone, keys, lip gloss? Perfect.")
+"不是……而是……"的说法一条最多一次,英文说得随口("It's not loud, it's just… nice."),"It's not just X, it's Y"这种广告句不用。
+
+**1. 包的细节怎么叫**(看得见才说)
+pebbled grain(荔枝纹)、fine grain(细纹理)、glazed / glossy finish(亮面)、matte(哑光)、antiqued hardware(做旧五金)、gold hardware(金色五金)、edge paint(油边)、stitching(车线)、quilting(绗缝)、structured(挺括)、slouchy(软塌)、silhouette(廓形)、subtle sheen(淡淡的光泽)、chain strap(链条肩带)、top handle(顶部提手)、magnetic snap(磁扣)。说成口语:"See how shiny the finish is?" 不说 "It features a glazed finish."
+
+**2. 她的感受和反应**(对方看到、她摸到、她被夸时;一条一两个)
+gorgeous、stunning、chic、classy、it's a vibe、I'm obsessed、this is so me、my favorite part is…、the thing I love is…、I didn't expect…、every time I…;连接词 honestly、but、and、plus、so 让话连起来。
+
+**3. 对整身的效果**(说成她当下的话)
+simple but not basic;great from far away, even better up close;casual chic;makes me look put-together;makes my basics look like I tried;pop of color;wakes the whole outfit up;brightens up a gray coat;ties the whole look together。
+
+**不用**:high-end、timeless、great craftsmanship、premium quality、next level、game-changer、the value is unmatched、best materials、one of a kind、those who know know(暗示大牌)、This print is a classic brand element(暗示大牌)、Imagine wearing this to…(主播腔)。
+
+## 零、质感和气质怎么说(讲包质感那一句,写之前先看这一节;只学怎么形容,不照抄整句)
+用法:画面里先有那个样子(塌、垂、光泽、纹理),再从对应那组挑一个说法,接一句"配她身上这件衣服什么感觉";一句最多一个,不堆形容词。标"评论"的是美国买家原话,标"媒体"的是时尚媒体书面语,要改成口语再用。来源:2026-11 网络调研(Zappos、Walmart、Amazon 评论,The Zoe Report、WWD、Who What Wear、Brahmin、Bustle、Planoly);以后拆到美区真人口播原话再补、替换。
+- 软、手感:buttery soft(评论)、so soft and very well made(评论)、feels like real leather(评论,只用于页面写了 PU/vegan leather 的,不说是真皮)
+- 软到会塌、垂:won't stand up on its own(评论,差评里的说法,反过来说成"它就是会软软塌下来");little to no natural shape, but that's the charm(媒体;口语:It has, like, no shape, and that's kind of the point.)
+- 显贵:right on trend and looks expensive(评论);feels expensive in the most effortless way(媒体;口语:It just looks expensive without trying.)
+- 气质:polished but easy(媒体;口语:Relaxed, but still kind of put together.);it's giving [某种感觉](TikTok 说法,一条最多一次)
+- 质感温度:warm, tactile, just the right amount of cozy(媒体,麂皮;口语:It's so cozy-looking.)
+- 多场合:from office to evening to weekend(媒体;口语:I wear it to work and then just keep it on for dinner.)
+- 爱到不想放下:I could live in this purse(评论)
+
+## 一、怎么让人想得出画面
+整段要有画面,不逐句硬凑,从下面挑着用:
+- 一个落在包身上的形容词(第三节)
+- 一个有动作感的动词(第四节)
+- 一个具体的名词(第五节),不说 stuff、things
+- 一个时间或场景(第十二节)
+- 一个比较:以前要拎两个包、普通托特一塞就鼓、她以前那只
+例:不说 "It holds a lot of stuff." 说 "I toss my laptop, leggings and a water bottle in, and it still slouches like nothing's in there."(能装什么按规格卡)
+
+## 二、包型叫法(用美国人的说法,口播里说过的就是发布包的品类标签)
+tote / tote bag、hobo / hobo bag、slouchy bag、shoulder bag、crossbody / crossbody bag、underarm bag、bucket bag、satchel、baguette、east-west bag、barrel bag、bowling bag、top-handle bag、clutch、pouch、backpack、weekender、work bag、laptop bag、everyday bag、purse(美国人口语里女包统称 purse)
+
+## 三、形容词(落在包身上)
+- 形状:slouchy、structured、roomy、oversized、compact、boxy、soft、squishy、sleek、puffy
+- 质感:buttery、smooth、pebbled、matte、glossy、brushed、quilted、woven、textured、velvety(麂皮、绒面)
+- 感觉和气质:rich-looking、expensive-looking、effortless、polished、clean、chic、cozy、classic、timeless、low-key、elevated
+- 颜色:按第九节
+- 风格词(chic、effortless、elevated)要带上具体对象说("that slouchy shape looks so effortless"),不单独当一句夸
+- 不用:讲卖点的那句里,空洞的夸(cute、gorgeous、amazing、stunning、perfect)和抽象词(quality、style、vibe、aesthetic)不单独当卖点,要挂在看得见、摸得着的东西上;查法是"这句能不能拍出来"。看到、摸到、用到之后的情绪反应(so cute、obsessed、I know),她和拍的人都可以说。
+- 不用:叠词(so so、really really、super super);三个形容词排成一串;一口气报一长串场合;中文网络话术直译(家人们、冲、闭眼入);不说 waterproof)、scratch resistant(写了才说)、lightweight(写了重量才说)
+
+## 七、背法
+carry it by the handle、in the crook of my arm、on my shoulder、under my arm、crossbody(真有斜挎带才说)、as a backpack、adjustable strap、detachable strap、convertible、two ways / three ways to wear it
+
+## 八、容量说法
+- everyday carry、fits my whole day、holds my laptop, my water bottle and my whole day、fits my phone, wallet, keys and lip gloss、there's a pocket for everything、still room、doesn't bulge、stands up on its own、my keys don't sink to the bottom anymore
+- 说"放得下 13 寸电脑 / 10.9 寸平板"必须规格卡有依据
+
+## 九、颜色
+- 棕色家族:chocolate brown、espresso、caramel、cognac、camel、tan、mocha、toffee
+- 红色家族:burgundy、wine、oxblood、cherry red、merlot、brick red
+- 中性色:black、cream、ivory、oat、oatmeal、taupe、greige、stone、charcoal
+- 其他:olive、forest green、navy、denim blue、cobalt、butter yellow、blush pink、baby pink
+- 花纹:leopard、cheetah、croc、plaid、tartan、houndstooth、polka dot、gingham、checkerboard
+- 颜色说成对象和画面:"this chocolate brown goes with everything I own"
+
+## 十、痛点(真实的小麻烦,让她认出自己;不夸大)
+- 两个包:juggling two bags、carrying a gym bag and a work bag
+- 找东西:my bag is a black hole、digging for my keys、everything sinks to the bottom
+- 装不下:my laptop never fits、it bulges the second I add a water bottle
+- 不好看:my old tote looks like a grocery bag、my outfit needed something
+- 肩:my shoulder was dying(换宽肩带、换背法时;有依据才说)
+- 痛点只说她自己、说以前那只包或"别的大包",不点名别家
+
+## 十一、背上效果句(结果前置:先说背上、用起来什么样,再说是哪个设计做到的)
+- 好看:"It makes my whole outfit look put together." / "This bag does all the work for my outfit." / "Plain sweater, jeans, this bag, done."
+- 看着贵:"My sister asked what brand it is." / "It looks way more expensive than it is."(不报价格)
+- 能装:"My whole day fits in here, and it still zips flat." / "Laptop, gym clothes, snacks, one bag."
+- 软和比例:"It slouches in the best way." / "It hugs my side instead of sticking out."
+- 一包多背:"I wear it on my shoulder to work and crossbody on weekends."(真有才说)
+- 句子只学结构,按这只包和这个人重新说
+
+## 十二、场景词和标签(发布包、帮着想场景)
+- 场景:work bag、school bag、gym bag、weekend bag、travel bag、carry-on、date night bag、errand bag、mom bag、commuter bag
+- 风格:fall aesthetic、cozy fall、old money、quiet luxury、clean girl、coquette、Maillard、dark academia、coastal(按这条的色卡)
+- 标签:带货 1(#TikTokShop、#TikTokMadeMeBuyIt 轮换)+ 包型 1-2(#totebag #hobobag #crossbodybag #shoulderbag)+ 场景或风格 1(#workbag #fallaesthetic #oldmoney)+ 需求 0-1;不用 #fyp、#viral
