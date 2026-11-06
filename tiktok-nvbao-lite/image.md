@@ -91,19 +91,21 @@ Avoid: any text, watermark, different hair or makeup between panels, a back view
 
 ## 四之二、无头上身图(真人出镜每条做一张:正面和背面两格,穿着这条的衣服,不背包)
 样子照商品上身图那种:整张竖图 3:4,白色背景,左边正面、右边背面,两格贴着、不留空隙不画分割线;每格人撑满,上面截在嘴唇下方,下面鞋底贴近底边,不露脸;相机在腰的高度平视,不俯拍、不广角,腿的比例才对;她穿着这条视频的整套衣服,双手自然垂在身侧,不拿包;光均匀、柔和,像电商上身图。
-用 ChatGPT 出,只传一张身材曲线图(Image 1,只用身材)。衣服用文字写:用户发了 Pinterest 穿搭截图,就照截图写每件的颜色、料子、款式、怎么穿(截图不传,图里的包和 logo 不写;季节不对补上冬天外套);没有截图就按 `style.md` 现搭。
+**先给搜索词**:出这张图之前,按这条的包、颜色、风格、季节给 3-5 个英文搜索词,写清去哪搜(Pinterest、品牌官网、购物网站),比如 `chocolate brown cardigan olive wide leg pants outfit`、`cropped knit cardigan set women winter`;用户找到服装图发来,先一两句话说出看到的这身让她确认。
+用 ChatGPT 出,传两类图:Image 1 身材曲线图(只用身材);Image 2 起是服装原图(只用衣服;有正面整体和细节图就都传,写清哪张看整体、哪张看细节)。服装图里的包、模特的身材脸和姿势、背景、吊牌和品牌商标都不用。没有服装图时才用文字写衣服(按 `style.md` 现搭),模板里 Image 2 那两句删掉、Outfit 写全。
 即梦里写:"@图片N 只用于她的身材比例和这条的衣服;脸按人脸图,不用它的白色背景"。
 ```
 Image 1 is a body reference: use it only for her body shape and proportions, ignore its clothing and background.
+Image 2[ and Image 3] show the outfit: use them only for the clothes (colors, knit texture, cut, neckline, buttons, trims) and copy them exactly[; Image 2 for the whole outfit, Image 3 for the details]. Ignore the model's body, face, pose and background in these images, do not include the bag, and remove any labels, tags or brand logos.
 Make an on-body outfit photo sheet of the same woman. Portrait canvas 3:4. Two equal panels side by side touching each other, no gap, no divider line: left panel front view, right panel back view. Pure white background, soft even studio-like light, photorealistic, no text.
 In each panel her body fills the full height: cropped just below the lips at the top (no face visible), shoes almost touching the bottom edge, very little white space on the sides; same body, same scale, standing straight and relaxed with arms down at her sides.
 Camera at her waist height, straight on, about 50mm lens, no high angle, no wide-angle distortion, so her legs keep their real length.
 Keep the body proportions of Image 1 exactly; if the outer layer is open, her waistline is still visible.
 Body: about [height], [weight], [shape: very defined small waist, rounded hips, long legs — from the character card]. Feminine, not muscular.
-Outfit: [每件写颜色 + 材质 + 款式 + 怎么穿;领口可以开低,露一点乳沟,不露内衣].
+Outfit: [有服装图:一句话点名每件,"the brown cardigan, the olive top and the olive wide-leg trousers from Image 2",季节不对加一句冬天外套;没有服装图:每件写颜色 + 材质 + 款式 + 怎么穿;领口可以开低,露一点乳沟,不露内衣].
 Shoes: [颜色 + 款式].
 No bag, nothing in her hands.
-Avoid: any text, a visible face, a bag, extra people, visible underwear.
+Avoid: any text, a visible face, a bag, extra people, the outfit model's body shape, brand logos, visible underwear.
 ```
 出图后哪一处不对,只改那一处(`Change only: …`)。
 
