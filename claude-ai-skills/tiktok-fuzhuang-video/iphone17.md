@@ -1,7 +1,7 @@
 # 全片画面标准:iPhone 17 手机实拍
 
 全片(分镜、即梦视频)都按"用 iPhone 17 随手拍的"来写,四种拍法都一样。第 2、4 步按这里写,不另编相机参数。
-例外:第 3 步的参考图(平铺搭配图、同框图)是给即梦认衣服的,用浅灰底、柔光、真实颜色,不按这里写。
+例外:第 3 步的参考图(同框图)是给即梦认衣服的,用浅灰底、柔光、真实颜色,不按这里写。
 
 ## 用哪个镜头(第 2 步分镜、第 4 步【整体】的"镜头"写这个)
 - **主摄 1x**:48MP,等效 26mm,f/1.6。第三视角、固定机位、对镜自拍都用它。视角正常,平直不变形。
@@ -23,7 +23,7 @@
 ```
 iPhone 17 竖屏实拍,[主摄 1x,平直透视、不变形 / 超广角 0.5x / 前置镜头],眼平机位,[手持跟拍、画面跟着动作晃动 / 镜头固定、画面稳定];画面明亮、曝光充足,光线柔和偏暖,颜色浓郁真实、饱和度和对比度正常,不发金、不过曝,人脸和衣服光线充足;画面清晰锐利、对焦准确,发丝、面料纹理、衣服的走线和印花都清楚;肤色自然,不过度磨皮
 ```
-**生图(英文,只用于场景图改图这类要"像手机拍的"的图)**:
+**生图(英文,只用于要"像手机拍的"的图)**:
 ```
 photorealistic candid photo shot on iPhone 17, [main camera 1x / 0.5x ultra-wide], vertical 9:16, deep focus with background in focus, bright and well-exposed, soft warm natural light, rich, true-to-life color, normal contrast and saturation, not golden, not overexposed, face and outfit well lit, sharp focus, crisp fine details, natural skin with visible texture, no blown highlights, no portrait mode blur, no film grain, no cinematic color grading, no dull or grey look
 ```
