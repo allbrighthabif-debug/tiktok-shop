@@ -187,10 +187,16 @@
 ## 八、发布包(用户发 2 或说"出发布包"才出)
 ```
 【发布文案】1-2 句,不超过 150 个字符:第一人称说喜欢 + 点名包型和花纹或颜色 + 1-2 个卖点(能装下什么、材质、好搭),比如 "Obsessed with this leopard corduroy crossbody!! Fits my whole day — gloss, keys, even my tablet 🐆";讲商品,不写故事、不写剧情梗;卖点只写评论或页面有的;不写 "link in bio",不写价格;没有评论不写"买家说"
-【开头字幕】(可选)开头屏幕上一行文字钩子,5-8 个英文词,是选题那句话,不重复口播;发布前在 TikTok 或剪映里用 TikTok 原生字体加(即梦里不出字,会画乱)。可选:自动字幕、轻微噪点;不加模糊。
+【开头字幕】(包和鞋都默认出)画面开头叠的三行字:第一行很短的引子,1-3 个词(New alert、Okay wait、Found it、POV);第二行钩子,小写,6 个词以内,说这只包或这双鞋最打动人的那一点("perfect tote actually exists"、"boots that go with everything");第三行 2-3 个表情,按商品的颜色和风格挑,合适就直接加(颜色:棕 🤎、黑 🖤、奶白 🤍、粉 🩷、红 ❤️、绿 💚;风格:毛绒或 cozy 🧸,闪亮 ✨🌟,秋 🍂,冬 ❄️,甜美 🎀);同一个窗口里引子和钩子不重复,不跟口播第一句一样。发布前在 TikTok 或剪映里用 TikTok 原生字体加(即梦里不出字,会画乱;即梦提示词照旧写画面里没有字幕和文字)。可选:自动字幕、轻微噪点;不加模糊。
 【标签】4-6 个,按包型、用途场景、人群、季节打(#leopardbag #crossbodybag #workbag #collegebag #everydaybag #fallbag;卖鞋用鞋型词,如 #sneakers #loafers #boots);泛标签(#TikTokMadeMeBuyIt、#TikTokShop)最多 1 个;没有真折扣不打 #sale 这类促销标签;不用 #fyp、#viral
 ```
-- **发布文案和标签放进同一个代码块**(开头写 text),块里只有一段:文案后面空一格直接接标签,标签之间空格隔开,一键复制就能贴进 TikTok;开头字幕(有的话)写在代码块外面。
+- **发布文案和标签放进同一个代码块**(开头写 text),块里只有一段:文案后面空一格直接接标签,标签之间空格隔开,一键复制就能贴进 TikTok。
+- **开头字幕单独一个代码块**(开头写 text),三行照格式排,放在发布文案代码块的前面,样子:
+  ```text
+  New alert
+  perfect tote actually exists
+  🤎🌟🧸
+  ```
 - 不写 AI 内容标注的提醒(用户自己标)。
 
 ## 九、照爆款复刻(用户要求时)
