@@ -143,14 +143,14 @@ Avoid: showing the face or lips, any visible hair, tattoos, jewelry, visible mus
 主要给用户看:镜头、机位、走位对不对,先在图上看清楚,不对就先改文字,少抽卡。简单的条只给用户看;两个人走位、镜头多、动作复杂的条,也可以传进即梦当参考。
 - 用 ChatGPT 出,只传包的锚点图(只用来画准包的轮廓);人脸图、无头上身图不传。
 - 竖版宫格,3×3 或 2×4,一格一个镜头或一个时间段;黑白铅笔素描线稿,人物画简单的五官和表情(看得出在笑、看包还是看镜头)。
-- 每格画清:景别(全身、半身、近景);机位(拍的人在哪、手机朝哪,用一个小手机图标和箭头);人物站位和走位(箭头);包在她身上的位置;手在干什么;左上角只写镜头号和秒数("3 | 4-6s")。
+- 每格画清:景别(全身、半身、近景);机位(拍的人在哪、手机朝哪,用一个小手机图标和箭头);人物站位和走位(箭头);包在她身上的位置(每格包的大小和位置前后一样);手:谁的手(她的、拍的人的)、哪只手、从画面哪边进来,画一个箭头加短标签("her R hand →"、"filmer's hand ↑"),左右按画面算;左上角写镜头号和秒数("3 | 4-6s")。
 - 看完哪几格不对,只改那几格的文字,再出一次。
 
 **模板**(`[ ]` 按本条填)
 ```
 Image 1 is the bag: use it only to draw the bag's outline and shape correctly.
 Draw a storyboard sheet for a [N]-second vertical phone video: a [3x3 / 2x4] grid of equal vertical panels, black-and-white pencil sketch, clean line art on white paper, no color, no shading fills.
-People are simple line drawings with simple faces and clear expressions. In the top-left corner of each panel write only the shot number and seconds, like "1 | 0-2s". Show the phone camera position with a small phone icon and an arrow for where it points, and use arrows for where people walk or turn.
+People are simple line drawings with simple faces and clear expressions. In the top-left corner of each panel write only the shot number and seconds, like "1 | 0-2s". For every hand in a panel, draw an arrow showing which side of the frame it comes in from, with a short label like "her R hand" or "filmer's hand"; left and right mean the left and right of the frame. Keep the bag the same size and in the same place from panel to panel unless it moves. Show the phone camera position with a small phone icon and an arrow for where it points, and use arrows for where people walk or turn.
 Panel 1 ([秒数]): [景别], [机位:拍的人在哪], [她在哪、在做什么、往哪走], [包在身上哪里], [手在干什么], [表情].
 Panel 2 ([秒数]): …
 (每格一句,按时间轴写)
