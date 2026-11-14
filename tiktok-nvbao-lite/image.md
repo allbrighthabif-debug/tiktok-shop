@@ -53,17 +53,20 @@ Avoid: no studio product look, no bag held up in the air, no stiff posed hands, 
 ## 三、白底锚点图(两条路都要)
 包的样子全靠这张图锁住;第 4 步当包的参考上传。不做人和包的同框图(包容易穿模)。
 - **正面锚点(必须)**:商家图里有一张正面、包完整、没有人、没有手、背景干净、看得清花纹和五金的,直接用,本步不出提示词,交付写一句"用商品图第 N 张当锚点"。
-- **没有这样的图**(都带模特、背景乱、只有侧面):出一条白底重绘提示词,上传商品图里包最清楚的 2-3 张,只把这只包重画在纯白底上,花纹、五金、提带、口袋一样不改。用户生完拿去和原图逐项对:颜色、花纹的大小和间距、五金的个数和位置、提带连在哪、口袋在哪、商品自己的字样;哪一处不对只改那一处。
-- **要拍的颜色没有图**:拿别的颜色那张最清楚的图做白底重绘,只改颜色,在模板第二行后加一句 `Change only the color of the bag to [颜色名] ([主色 HEX]); keep every detail, the material finish and the hardware color exactly the same.`;用户生完先核颜色(可以用 `tools/sample_color.py` 量一下跟商家写的颜色对不对)和细节,对了才当锚点。
-- **副锚点(可选)**:要演包里、背面或包底时,再出一张背面或打开的白底图;商家有干净的就直接用。
+- **没有这样的图**(都带模特、背景乱、被手拿着):用下面的"提取整只包"通用提示词,直接复制进 ChatGPT,上传商品图里包最清楚的那一张,不用填空。
+- **拍到了几面就提取几面**:商家图里拍到了侧面、背面、包里面、包底,就每一面各提取一张白底图,用同一条提示词,上传拍到那一面的图,第一句末尾加一句写清是哪一面(`This is the back view as shown in the photo.`);这几张就是副锚点,演到哪一面传哪一张。商家图里没拍到的面不提取、不演(提取不出来的那一面是 AI 编的,不能当参考)。
+- **配件单独提取**:挂件、肩带、扣子、五金要单独锁住时,用"提取配件"那条,方括号里换成要提取的东西(`the beaded bag charm hanging on the left`)。
+- **要拍的颜色没有图**:拿别的颜色那张最清楚的图提取,在提示词末尾加一句 `Change only the color of the bag to [颜色名] ([主色 HEX]); keep every detail, the material finish and the hardware color exactly the same.`;用户生完先核颜色(可以用 `tools/sample_color.py` 量一下跟商家写的颜色对不对)和细节,对了才当锚点。
+- **出图后对一遍**:颜色、花纹的大小和间距、五金的个数和位置、提带连在哪、口袋在哪、商品自己的字样;哪一处不对只改那一处(`Change only: …`)。
 
-**模板**(英文,`[ ]` 按本条填)
+**提取整只包**(直接复制,不用填空)
 ```
-Redraw only the bag from the uploaded photos as a clean e-commerce product photo on a pure white background (#FFFFFF), vertical 4:5. [Front view / back view / top open view], the bag standing upright, centered, about 70% of the frame height; [handles standing up / strap tucked neatly behind the bag].
-Keep the bag exactly as in the photos: [bag type and shape], [color and pattern, exact — same spot size and spacing], [material and finish], [handles / strap: where they attach, how long], [hardware: color, shape, how many, where], [pockets, zipper, stitching], [the product's own lettering, unchanged]. Same proportions; do not redesign, simplify or add anything.
-Nothing else in the image: no model, no hands, no props, none of the original background.
-Light: soft, even light, a faint natural shadow under the bag, true-to-life color.
-Avoid: changed or blurred pattern, extra or missing hardware, extra pockets, a different strap, warped shape, any extra text or logos.
+Extract only the bag from the uploaded photo and place it on a pure white background (#FFFFFF), as a clean e-commerce product photo, vertical 4:5, centered, about 70% of the frame height. Keep the bag exactly as it is in the photo: same shape, proportions, color, material and texture, hardware, straps, stitching and any lettering. Do not redesign, simplify, recolor or add anything. Remove everything else: the person, hands, props and background. Soft even light, a faint natural shadow under the bag, true-to-life color.
+```
+
+**提取配件**(只换方括号)
+```
+Extract only the [bag charm / shoulder strap / buckle] from the uploaded photo and place it alone on a pure white background (#FFFFFF), centered, filling about 60% of the frame. Keep it exactly as it is in the photo: same shape, colors, materials, number of parts and details. Do not redesign or add anything. Remove the bag, hands and background. Soft even light, true-to-life color.
 ```
 
 ## 四、建号时做一次:人脸四视图(真人出镜的号;身材曲线图可选)
@@ -135,6 +138,24 @@ Avoid: showing the face or lips, any visible hair, tattoos, jewelry, visible mus
 - 四格不像同一个身体(胸或屁股一格大一格小):`Change only: make it clearly the same body in all four panels — …`,写清哪一格照哪一格。
 - 踮脚:写 both feet flat on the floor in every panel。
 - 露出嘴:写 her mouth and lips are not visible。
+
+## 四之三、分镜图(可选,用户说"出分镜图"时出;文案和镜头定了以后、出即梦提示词之前)
+主要给用户看:镜头、机位、走位对不对,先在图上看清楚,不对就先改文字,少抽卡。简单的条只给用户看;两个人走位、镜头多、动作复杂的条,也可以传进即梦当参考。
+- 用 ChatGPT 出,只传包的锚点图(只用来画准包的轮廓);人脸图、无头上身图不传。
+- 竖版宫格,3×3 或 2×4,一格一个镜头或一个时间段;黑白铅笔素描线稿,人物画简单的五官和表情(看得出在笑、看包还是看镜头)。
+- 每格画清:景别(全身、半身、近景);机位(拍的人在哪、手机朝哪,用一个小手机图标和箭头);人物站位和走位(箭头);包在她身上的位置;手在干什么;左上角只写镜头号和秒数("3 | 4-6s")。
+- 看完哪几格不对,只改那几格的文字,再出一次。
+
+**模板**(`[ ]` 按本条填)
+```
+Image 1 is the bag: use it only to draw the bag's outline and shape correctly.
+Draw a storyboard sheet for a [N]-second vertical phone video: a [3x3 / 2x4] grid of equal vertical panels, black-and-white pencil sketch, clean line art on white paper, no color, no shading fills.
+People are simple line drawings with simple faces and clear expressions. In the top-left corner of each panel write only the shot number and seconds, like "1 | 0-2s". Show the phone camera position with a small phone icon and an arrow for where it points, and use arrows for where people walk or turn.
+Panel 1 ([秒数]): [景别], [机位:拍的人在哪], [她在哪、在做什么、往哪走], [包在身上哪里], [手在干什么], [表情].
+Panel 2 ([秒数]): …
+(每格一句,按时间轴写)
+No other text, no color, no photo realism.
+```
 
 ## 五、包特有的画错风险(提示词里写进 Avoid 或单独一句)
 - 满格花纹、格纹:写 "the [pattern] stays exactly as in Image 1, same spot size and spacing, no bent or blurred lines"。
